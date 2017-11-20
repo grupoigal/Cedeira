@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#fffbfff9">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <ImageView
+            android:id="@+id/iv_Eventos"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:onClick="eventos"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/opc_13_eventos"
+            tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+        <EditText
+            android:id="@+id/playastext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/iv_Eventos"
+            android:background="@null"
+            android:enabled="false"
+            android:text="@string/menu_eventos"
+            android:textAlignment="center"
+            android:textColor="@color/common_google_signin_btn_text_dark_default"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            tools:ignore="TextFields" />
+
+    </RelativeLayout>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <ImageView
+            android:id="@+id/iv_Noticias"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:onClick="noticias"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/opc_14_noticias"
+            tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+        <EditText
+            android:id="@+id/noticiastext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/iv_Noticias"
+            android:background="@null"
+            android:enabled="false"
+            android:text="@string/menu_noticias"
+            android:textAlignment="center"
+            android:textColor="@color/common_google_signin_btn_text_dark_default"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            tools:ignore="TextFields" />
+
+    </RelativeLayout>
+
+
+
+
+
+</LinearLayout>

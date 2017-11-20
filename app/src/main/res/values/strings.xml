@@ -1,0 +1,1343 @@
+<resources>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="eslogan">Peregrina á Cedeira máxixa</string>
+    //Título
+    <string name="app_name">Cedeira</string>
+    <string name="concello">Concello</string>
+    <string name="directorio">Directorio</string>
+    <string name="web_concello">Web do concello</string>
+    <string name="inicio">Inicio</string>
+    <string name="cedeira">Cedeira</string>
+    <string name="policia">Policía Local</string>
+    <string name="centro_saude">Centro de Saude</string>
+    <string name="taxi">Servizo de Taxi</string>
+    <string name="farmacias">Farmacias</string>
+    <string name="cuartel">Cuartel da Garda Civil</string>
+    <string name="restauracion">Restauración</string>
+    <string name="bares">Bares</string>
+    <string name="restaurantes">Restaurantes</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="gastronomia">Gastronomía</string>
+    <string name="webs">Webs de interese</string>
+    <string name="title_email">E-mail</string>
+    <string name="title_nombre">Nombre y Apellidos</string>
+    <string name="title_incidencia">Incidencia o Comentario</string>
+    <string name="menu_praias">Praias</string>
+    <string name="menu_eventos">Eventos</string>
+    <string name="menu_restaurantes">Restaurantes</string>
+    <string name="menu_noticias">Noticias</string>
+    <string name="menu_hoteles">Hoteles</string>
+    <string name="menu_miradores">Miradoiros</string>
+    <string name="menu_patrimonio">Patrimonio</string>
+    <string name="menu_rutas">Rutas</string>
+    <string name="menu_hosteleria">Hostelería</string>
+    <string name="turismo_cedeira">Turismo Cedeira</string>
+    <string name="mapa_google">Google Map</string>
+
+
+    <string name="turismo">Turismo</string>
+    <string name="San_andres">San Andrés</string>
+    <string name="qr">Lector QR</string>
+    <string name="actualidade">Actualidade</string>
+    <string name="participa">Participa</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_galeria">MainGaleria</string>
+    <string name="title_gastronimia">Gastronomía</string>
+
+
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main_concello">MainConcello</string>
+
+    <string name="Sentir_marinero">O sentir mariñeiro</string>
+
+    //Direccións
+    <string name="direcc_concello">Rúa Real nº15</string>
+    <string name="direcc_centro_saude">Avenida Zumalacárregui nº11</string>
+    <string name="direcc_taxi">Desde calquer punto a túa disposición</string>
+    <string name="direcc_farmacias">Rúa Ezequiel López nº6, 981 480021</string>
+    <string name="direcc_cuartel">Rúa dos deportes nº8</string>
+
+    //Textos
+    <string name="descripcion_concello">O concello de Cedeira é o órgano de administración do municipio de Cedeira.
+        O Concello é o órgano administrativo menor e máis próximo ó cidadán e ós seus visitantes,
+        o cal busca ser un concello aberto, próximo ao día a día de todo os veciños e veciñas,
+        traballando sempre do xeito máis eficaz.
+        O obxectivo principal do Concello é o benestar social da veciñanza que o conforma,
+        sempre apostando polo progreso social, cultural e económico do concello; e, traballando
+        cos demais axentes sociais e económicos tales como outras institucións, asociacións,
+        veciñanza, etc., pretendemos continuar construíndo un concello cada día máis solidario,
+        máis emprendedor, máis igualitario e con maior calidade de vida.
+    Utiliza el deslizable para encontrar el teléfono que desees:</string>
+    <string name="title_activity_main_qr">MainQR</string>
+    <string name="title_activity_main_participa">MainParticipa</string>
+    <string name="title_activity_main_turismo">MainTurismo</string>
+    <string name="title_activity_main_gastroniomia">MainGastroniomia</string>
+
+    <string name="descripcion_gastronomia">Á hora de xantar ou cear, pescados e mariscos recién capturados constituen a base da gastronomía local, puro olor e sabor a mar.
+Son receitas de pescado típicas de Cedeira o Rape con chícharos (Rape á Cedeira), chocos recheos, bonito en salsa, merluza en salsa verde ou o Pastelón de Cedeira (un tipo de empanada feita con hoxaldre en lugar de masa de pan, e rechea con bonito, bacallau con pasas, congro …)
+Falando de mariscos e tendo en conta a fama internacional do percebe propio das nosas bravas costas, non poden esquecerse tamén as centolas, os lubrigantes, as nécoras, ou os berberechos da Vila.
+Para rematar, no postre, unhas deliciosas e típicas “Eses”, saborosas galletas coas que rematar o menú, ou os brazos de xitano cos máis variados recheos…
+Estas e outras delicias forman parte de xeito habitual das cartas dos locais de hostalaría da Vila, coa mellor materia prima directa do mar ao prato, e que fai as delicias dos máis esixentes comensais.
+</string>
+    <string name="title_activity_main_web">MainWeb</string>
+    <string name="title_activity_main_carga_webs">MainCargaWebs</string>
+
+    <string name="menu_camino_do_mar">Camiño do mar</string>
+    <string name="menu_a_teixido">Dende Porto do cabo</string>
+    <string name="menu_camino_vello">Camiño vello a Teixido</string>
+    <string name="menu_camino_carino_teixido">Cariño-Teixido</string>
+    <string name="menu_medievo">Ruta do medievo</string>
+    <string name="menu_peiraos">Ruta dos Peiraos</string>
+    <string name="menu_galeguistas">Perelinaxes I/Galeguistas</string>
+    <string name="menu_vuelta_espana">Vuelta a España (4ª Etapa)</string>
+
+
+    <!-- **************** Rutas San Andrés ****************** -->
+    <string-array name="titulo_ruta">
+        <item>RUTA CAMIÑO DO MAR</item>
+        <item>RUTA CAMIÑO A TEIXIDO DENDE PORTO DO CABO</item>
+        <item>RUTA CAMIÑO VELLO A TEIXIDO</item>
+        <item>RUTA CARIÑO-TEIXIDO</item>
+        <item>RUTA DO MEDIEVO</item>
+        <item>RUTA DOS PEIRAOS</item>
+        <item>RUTA DOS PERELINAXES I OU DOS GALEGUISTAS</item>
+        <item>RUTA LA VUELTA A ESPAÑA 2016 (4ª ETAPA)</item>
+    </string-array>
+    <string-array name="descripcion_corta_ruta">
+        <item>https://caminoasanandres.com/gl/rutas-camino-del-mar/</item>
+        <item>https://caminoasanandres.com/gl/camino-porto-do-cabo-san-andres/</item>
+        <item>https://caminoasanandres.com/gl/camino-vello-a-teixido/</item>
+        <item>https://caminoasanandres.com/gl/ruta-carino-teixido/</item>
+        <item>https://caminoasanandres.com/gl/ruta-do-medievo/</item>
+        <item>https://caminoasanandres.com/gl/ruta-dos-peiraos/</item>
+        <item>https://caminoasanandres.com/gl/ruta-pelerinaxes-i/</item>
+        <item>https://caminoasanandres.com/gl/ruta-4a-etapa-vuelta-espana-2016/</item>
+    </string-array>
+
+
+    <!-- **************** TELÉFONOS ****************** -->
+
+    <string-array name="directorio_titulo">
+        <item>Concello</item>
+        <item>Policía Local</item>
+        <item>Centro de Saude</item>
+        <item>Servizo de Taxi</item>
+        <item>Farmacias</item>
+        <item>Cuartel de Garda Civil</item><!--  6 items -->
+    </string-array>
+
+    <string-array name="directorio_direccion_1">
+        <item>Rúa Real nº 15</item>
+        <item>Rúa Real nº 15</item>
+        <item>Avenida Zumalacárregui nº 11</item>
+        <item></item>
+        <item>Rúa Ezequiel López nº 6, 981 480021</item>
+        <item>Rúa dos deportes nº 8</item>
+    </string-array>
+    <string-array name="directorio_direccion_2">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Avenida Zumalacárregui nº 7, 981 480366</item>
+        <item></item>
+    </string-array>
+    <string-array name="directorio_direccion_3">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Avenida Zumalacárregui nº 7, 981 480366</item>
+        <item></item>
+    </string-array>
+    <string-array name="tlf">
+        <item>981 480 000</item>
+        <item>981 480725 / 619309449</item>
+        <item>981 480015</item>
+        <item>981 480211</item>
+        <item></item>
+        <item>981 480113</item>
+    </string-array>
+    <string-array name="arroba">
+        <item>correo@cedeira.es</item>
+        <item>www.policialocalcedeira.wordpress.com</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="arroba2">
+        <item>www.cedeira.gals</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="time">
+        <item>Horario de atención ó público: L/V de 9.00h a 14.00h</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="title_activity_lista_tlf">ListaTlf</string>
+    <string name="title_activity_turismo">Turismo</string>
+
+
+    <!-- **************** PRAIAS  ****************** -->
+
+    <string-array name="titulo_praias">
+        <item>Praia da Magdalena</item>
+        <item>Praia de Area Longa</item>
+        <item>Cala de Sonrieiras</item>
+        <item>Cala Burbullas</item>
+    </string-array>
+    <string-array name="descripcion_corta_praias">
+        <item>Cunha ampla extensión de 1.300 metros, trátase dunha praia en contorna urbana. Con forma de enseada...</item>
+        <item>Praia en contorno semiurbano de 490 metros situada nas inmediacións do porto de Cedeira...</item>
+        <item>Pequena cala (20 metros) de difícil acceso por unha escaleira que só pode visitarse con marea baixa...</item>
+        <item>Preto do Faro da Robaleira, hai que acceder a pé atravesando unha preciosa e tranquila zona boscosa por un camino estreito...</item>
+    </string-array>
+    <string-array name="descripcion_larga_praias">
+        <item>Cunha ampla extensión de 1.300 metros, trátase dunha praia en contorna urbana. Con forma de enseada, de area branca e fina e augas tranquilas para desfrutar do baño e dos deportes acuáticos. Gorecida dos ventos.Nas inmediacións atópase o paseo marítimo con un piñeiral con mesas, bancos, parque infantil, etc. ideal para pasear e gozar da lectura.Dispón de: Aparcadoiro, duchas, servizos de vixiancia e limpeza, accesos adaptados, servizos próximos de aloxamento e hostalaría.</item>
+        <item>Praia en contorno semiurbano de 490 metros situada nas inmediacións do porto de Cedeira, de area branca e fina. Protexida dos ventos e de augas tranquilas, ideais para os deportes acuáticos. Praia portuaria, con zona de fondeo de embarcacións, é perfecta para arribar despois dunha excursión en barco pola ría.Dispón de: Aparcadoiro, duchas, papeleiras, servizo de vixiancia e servizos próximos de aloxamentos e hostalaría.</item>
+        <item>Pequena cala (20 metros) de difícil acceso por unha escaleira que só pode visitarse con marea baixa. Atópase situada nunha zona de moito encanto contigua a unha antiga cetárea abandonada.</item>
+        <item>Preto do Faro da Robaleira, hai que acceder a pé atravesando unha preciosa e tranquila zona boscosa por un camino estreito. É unha pequena cala duns 80 metros que só pode visitarse con marea baixa e acostuma ter oleaxe forte. Na cala Burbullas disfrútase dun auga limpa e cristalina con preciosas vistas a unha espectacular paixase natural.</item>
+    </string-array>
+    <string-array name="praias_coord_1">
+        <item>43.656648</item>
+        <item>43.659842</item>
+        <item>43.659188</item>
+        <item>43.647226</item>
+    </string-array>
+    <string-array name="praias_coord_2">
+        <item>-8.052917</item>
+        <item>-8.067502</item>
+        <item>-8.072750</item>
+        <item>–8.069128</item>
+    </string-array>
+
+
+    <!-- **************** MIRADOIROS  ****************** -->
+
+    <string-array name="titulo_miradoiros">
+        <item>Punta Sarridal</item>
+        <item>Santo Antón de Corveiro</item>
+        <item>Punta Candieira</item>
+        <item>Cruceiro de Teixedelo</item>
+        <item>Herbeira</item>
+        <item>Carrís</item>
+        <item>Chao do Monte</item>
+        <item>Robaleira</item>
+        <item>San Fiz</item>
+        <item>Boca de Tarroiba</item>
+        <item>Penedo Edroso</item>
+        <item>Poza da Auga</item>
+    </string-array>
+    <string-array name="descripcion_corta_miradoiros">
+        <item>Punta Sarridal ou península de Sarridal constitúe un enclave de gran valor estratéxico e defensivo da ría e da vila de Cedeira, xa dende a época castrexa...</item>
+        <item>Situado nun enclave privilexiado da costa de Cedeira, Santo Antón de Corveiro é un lugar...</item>
+        <item>Punta Candieira constitúe un dos puntos máis ao norte do municipio de Cedeira e ofrécenos unha magnífica panorámica do océano Atlántico...</item>
+        <item>Atopámonos en pleno corazón da serra da Capelada, no lugar chamado Teixidelo ou Curutelo. Dende este punto podemos...</item>
+        <item>Situado nun enclave privilexiado da costa de Cedeira, Santo Antón de Corveiro é un lugar de profundo significado para a veciñanza cedeirense...</item>
+        <item>Aos nosos pés atópanse os cantís de Herbeira, os cantís máis altos da Europa continental, cunha altitude sobre o nivel do mar...</item>
+        <item>Dende este punto, a uns 425 metros de altitude, podemos observar a inmesidade do Atlántico fronte a nós...</item>
+        <item>Dende este punto, a uns 360 metros de altitude, podemos observar a inmensidade do Atlántico fronte a nós...</item>
+        <item>Atopámonos nunha das contornas de máis beleza da costa cedeirense, a península de Robaleira, chamada así pola abundante...</item>
+        <item>A parroquia cedeirense de San Fiz de Esteiro toma o seu nome, precisamente, do esteiro que temos fronte a nós...</item>
+        <item>Ao pasar o faro de Punta Candieira, chegamos ata este punto dende o que pode...</item>
+        <item>De fácil acceso, aínda que por pistas forestais, este miradoiro en plena Serra da Capelada </item>
+        <item>Situado a 570 mtrs. de altitude, desde esta soberbia atalaia podemos contemplar toda a delicia da baía de Cedeira, que de lonxe asemella un lago...</item>
+    </string-array>
+    <string-array name="descripcion_larga_miradoiros">
+        <item>Punta Sarridal ou península de Sarridal constitúe un enclave de gran valor estratéxico e defensivo da ría e da vila de Cedeira, xa dende a época castrexa, cando neste territorio se asentaba un castro que servía de defensa da boca da ría. A ría de Cedeira está delimitada pola punta Chirlateira, no veciño municipio de Valdoviño, e pola punta do Carreiro, xa no concello de Cedeira.
+
+Tense constancia, a mediados do século XVII, da existencia neste terreo da chamada “Casa da Vela”, unha garita de vixilancia onde se facían quendas de garda para defender  a entrada da ría, e tamén dunha pequena batería militar dotada de catro canóns de curto calibre, da que apenas quedan os muros nas inmediacións da baliza de Sarridal.
+
+No ano 1747 esta batería sofre un ataque que pon en evidencia a necesidade dunha defensa maior da ría de Cedeira. O día 2 de xullo dese ano, uns bergantíns españois que se dirixían ao arsenal de Ferrol dende o golfo de Bizkaia e unha fragata francesa que foi avistada en alto mar víronse obrigados a refuxiarse na ría de Cedeira ao seren ameazados por uns navíos ingleses.  De pouco lles serviu, xa que remataron por prenderlles lume dentro da mesma ría. Os catro canóns da batería foron insuficientes para facerlle fronte aos navíos ingleses. Uns poucos desembarcaron na cala de Sonreiras e conseguiron chegar á capela de Santo Antón do Corveiro, a cal saquearon.
+
+A raíz desde feito fíxose necesaria a construción dunha defensa maior: o castelo da Concepción. Foi construído nun tempo récord, xa que a finais do mesmo ano (1747) xa estaba erguido uns metros máis abaixo, na parte superior do que agora é o porto pesqueiro.
+
+Máis aló dos enfrontamentos históricos, este enclave constitúe un miradoiro privilexiado da ría de Cedeira, reserva mariña dende o ano 2009.
+Tomando o sendeiro da punta Sarridal chegamos tamén á cala de Sonreiras, resgardada polo porto pesqueiro, dende a cal se ten acceso ás antigas cetáreas de langosta, testemuñas do pasado vinculado ao mundo do mar desta vila.
+</item>
+        <item>Situado nun enclave privilexiado da costa de Cedeira, Santo Antón de Corveiro é un lugar de profundo significado para a veciñanza cedeirense. Dende este lugar pódese gozar dunha magnífica panorámica da boca da ría de Cedeira e, máis ao sur, de punta Frouxeira, en Valdoviño (nos días máis claros ata é posible ver ao sur cabo Prior, en Ferrol). Este lugar é escenario de privilexiados solpores, sobre todo nos meses de verán.
+
+A ermida de Santo Antón foi construída, segundo os primeiros escritos, no ano 1661, encargada por Antonio de Pumariño Alfeirán, antigo párroco do concello de Ortigueira. Case un século despois, no ano 1747, a ermida sofre un saqueo (no cal desaparece a imaxe do santo) como consecuencia dunha batalla que se librou na ría de Cedeira entre navíos españois e ingleses e que desencadeou a construción do Castelo da Concepción, situado a un quilómetro ao sur deste templo. A ermida sofre diversas modificacións ao longo dos séculos XVIII e XIX. O retablo da ermida, do século XVII e de estilo barroco, procede da igrexa parroquial de Cedeira.
+
+O conxunto patrimonial complétano a fonte localizada ao pé do atrio e o cristo de pedra situado a carón da ermida (ano 1746), que orixinalmente estaba colocado nunha vella ponte, xa desaparecida, na entrada da vila de Cedeira e que se trasladou a este recinto no ano 1968.
+
+Foi poucos anos despois da construción da ermida cando se comezou a celebrar a tradicional romaría do 13 de xuño, na que se seguen a xuntar familias e grupos de amigos neste lugar para comer, beber e xuntos baixar cantando,  entre lusco e fusco, polo chamado camiño de Santo Antón cara á zona vella da vila. Tamén moi afamada é a xira de Santo Antón, que se celebra o día 17 de agosto, como colofón final ás festas patronais cedeirenses.
+
+“Iste é o camiño que me leva a San Antón, un caminiño cheo de pedras e de amor. Hai un cruceiro vello alí e a xente vai falar sempre do seu amor”. Así se refería Andrés do Barro, cantautor galego, a Santo Antón de Corveiro.
+</item>
+        <item>Punta Candieira constitúe un dos puntos máis ao norte do municipio de Cedeira e ofrécenos unha magnífica panorámica do océano Atlántico. Atopámonos nunha contorna salvaxe entre as puntas Folgueira e Balteira, nun enclave bravo e moi ventoso das Rías Altas, flanqueado polos montes Purrido, Vilar e Tarroiba. É neste punto exacto onde todos os invernos se rexistran os máis fortes refachos de vento de Galicia. Neste salvaxe territorio atopan o seu pasto animais en liberdade, como cabalos e cabras, e é tamén nesta costa onde as ondas do océano Atlántico baten de tal xeito que o converten nun excelente lugar para a extracción do tan afamado percebe de Cedeira
+
+A baixada cara ao faro de Candieira, como se pode observar dende este punto, non é sinxela, xa que se debe descender por unha estrada en zigzag de dez curvas, moi estreita e empinada, polo que se recomenda deixar o coche neste lugar e seguir o camiño a pé para chegar ao faro. O faro de Candeira foi proxectado no ano 1929, pero o seu destino era outro, posto que nun principio estaba previsto que fora construído no Cabo Ortegal. Foi debido a estas diferenzas na localización polo que non entrou en funcionamento ata xa comezados os anos 50. A torre é hexagonal, duns 6 metros de altitude, e está situada a uns 89 metros sobre o nivel do mar.
+
+Zona de interese xeomorfolóxico e paisaxístico
+
+Este punto onde nos atopamos posúe unha grande importancia xeolóxica. Trátase da antiga canteira de Purrido, de onde se extraían as anfibolitas, moi empregadas para a construción de boa parte dos hórreos do municipio de Cedeira.
+
+A área costeira que abrangue dende Punta Candieira ata Estaca de Bares (incluíndo tamén a ría de Ortigueira) constitúe un espazo mariño de grande importancia migratoria para máis dun millón de aves dunhas 15 especies distintas. O fluxo migratorio máis importante concéntrase entre os meses de agosto e novembro. Especies como a agulla colipinta, o zarapito real, a gaivota cabecinegra e sombría e o charrán patinegro e común adoitan sobrevoar estes cantís da Candieira.
+
+Este espazo representa, así mesmo, unha das zonas de maior valor ecolóxico de Galicia, con moitas especies consideradas vulnerables: Festuca brigantina subps. Actiophyta (endemismo da provincia da Coruña), Rumex scutatus subsp. Gallaecicus (endemismo dos cantís cedeirenses), Centaurea borjae (endemismo da costa de Ferrolterra), Crepis novoana (endemismo da ría de Cedeira, en crítico risco de extinción) e Linaria aguillonensis (costa dende cabo Vilán ata Estaca de Bares).
+
+</item>
+        <item>Atopámonos en pleno corazón da serra da Capelada, no lugar chamado Teixidelo ou Curutelo. Dende este punto podemos observar á nosa esquerda (sur) a aldea de Santo André de Teixido, lugar de peregrinación ancestral e rodeado de numerosas lendas e tradicións e ao que cada ano chegan milleiros de romeiros polos antigos camiños de peregrinación que percorren boa parte do territorio galego.
+
+“A Santo André de Teixido vai de morto o que non foi de vivo”
+
+Se ollamos á nosa dereita (norte), podemos ver as primeiras casas da aldea de Teixidelo e, a continuación, os cantís de Herbeira, os máis altos da Europa continental, con 620 metros de altitude, aproximadamente. A continuación, é posible albiscar a punta do Cadro, xa no veciño municipio de Cariño.
+
+Leslie Howard e o derribo do voo 777
+
+Foi nesta salvaxe costa da serra da Capelada onde o día 1 de xuño do ano 1943, durante a II Guerra Mundial, foi derribado o avión no que viaxaba o actor británico Leslie Howard, afamado protagonista da película Lo que el viento se llevó. Este estaba de viaxe en España (era moi amigo da actriz española Conchita Montenegro) e no regreso a Inglaterra colleu un avión en Lisboa rumbo ao seu país. Tratábase dun avión de pasaxeiros co nome de Ibis, o voo número 777, e a bordo ían 17 persoas. Fronte a estas costas foi abatido por oito cazas bombardeiros do exército do aire alemán que se atopaban escoltando a uns submarinos alemáns que estaban a cruzar as augas do golfo de Bizkaia, pero que debido ao mal tempo tiveron que cambiar a súa ruta para esta zona. En canto se deron conta de que o Ibis era un avión civil e non militar xa era demasiado tarde…  A outra teoría é que os cazas alemáns tiñan orde de derribar un avión que facía a mesma ruta Lisboa-Inglaterra no que viaxaba Whiston Churchill, primeiro ministro británico, que se atopaba en Gibraltar tras unha visita ao norte de África. O caso é que non houbo supervivintes do accidente. Leslie Howard perdeu a vida aos 50 anos fronte a estas costas de Cedeira.
+</item>
+        <item>Situado nun enclave privilexiado da costa de Cedeira, Santo Antón de Corveiro é un lugar de profundo significado para a veciñanza cedeirense. Dende este lugar pódese gozar dunha magnífica panorámica da boca da ría de Cedeira e, máis ao sur, de punta Frouxeira, en Valdoviño (nos días máis claros ata é posible ver ao sur cabo Prior, en Ferrol). Este lugar é escenario de privilexiados solpores, sobre todo nos meses de verán.
+
+A ermida de Santo Antón foi construída, segundo os primeiros escritos, no ano 1661, encargada por Antonio de Pumariño Alfeirán, antigo párroco do concello de Ortigueira. Case un século despois, no ano 1747, a ermida sofre un saqueo (no cal desaparece a imaxe do santo) como consecuencia dunha batalla que se librou na ría de Cedeira entre navíos españois e ingleses e que desencadeou a construción do Castelo da Concepción, situado a un quilómetro ao sur deste templo. A ermida sofre diversas modificacións ao longo dos séculos XVIII e XIX. O retablo da ermida, do século XVII e de estilo barroco, procede da igrexa parroquial de Cedeira.
+
+O conxunto patrimonial complétano a fonte localizada ao pé do atrio e o cristo de pedra situado a carón da ermida (ano 1746), que orixinalmente estaba colocado nunha vella ponte, xa desaparecida, na entrada da vila de Cedeira e que se trasladou a este recinto no ano 1968.
+
+Foi poucos anos despois da construción da ermida cando se comezou a celebrar a tradicional romaría do 13 de xuño, na que se seguen a xuntar familias e grupos de amigos neste lugar para comer, beber e xuntos baixar cantando,  entre lusco e fusco, polo chamado camiño de Santo Antón cara á zona vella da vila. Tamén moi afamada é a xira de Santo Antón, que se celebra o día 17 de agosto, como colofón final ás festas patronais cedeirenses.
+
+“Iste é o camiño que me leva a San Antón, un caminiño cheo de pedras e de amor. Hai un cruceiro vello alí e a xente vai falar sempre do seu amor”. Así se refería Andrés do Barro, cantautor galego, a Santo Antón de Corveiro.
+</item>
+        <item>Aos nosos pés atópanse os cantís de Herbeira, os cantís máis altos da Europa continental, cunha altitude sobre o nivel do mar de aproximadamente 620 metros e un desnivel que se achega ao 80%. Trátase dos cantís máis altos en mar aberto de toda Europa (tendo en conta que os fiordes noruegueses non son realmente cantís, senón vales glaciais inundados polo mar) e os cuartos na clasificación europea se temos en conta os cantís insulares de Noruega, illas Feroe e Irlanda. Debido á altitude, á pendendente dos cantís e á proximidade do mar neste punto, pódese afirmar que estamos ante un lugar único en Europa.
+
+As vistas dende este impresionante miradoiro abranguen punta Tarroiba e punta Balteira ao sur (á nosa esquerda), así como a poboación de Cedeira e parte da ría homónima,  na mesma dirección pero mirando ao interior. Nos días máis despexados é posible albiscar punta Frouxeira, no veciño concello de Valdoviño, e cabo Prior, en Ferrol (incluso se poden chegar a ver as illas Sisargas, a máis de 80 km de distancia). As puntas do Cadro e do Limo son visibles ao norte (á nosa dereita), así como as illas Gabeiras, aos pés do cantil. O edificio de pedra ás nosas costas é unha antiga garita de vixilancia construída polos veciños de Cedeira no ano 1805 e que foi restaurada no 2003.
+
+O vento da Capelada
+
+O “vento” ou “paredón do nordés” é como se coñece en Cedeira e Cariño a unha nube orográfica que se orixina na serra da Capelada entre ambos os municipios, sobre todo, entre os meses de abril e novembro. Esta nube orográfica (chamada así porque se forma grazas á orografía do territorio) ten grande influencia nestes dous municipios, sendo a responsable de que se creen uns microclimas específicos.
+
+A orixe desta nube está no choque dos ventos húmidos do nordés procedentes do océano Atlántico coa altitude, sobre todo neste punto da serra da Capelada. Os ventos húmidos ascenden pola vertente nordeste da Capelada, pola zona de Cariño (ladeira sombría), deixando orballos nesta área (a Capelada fai de barreira), e descende xa sen tanta humidade pola vertente suroeste de Cedeira (ladeira solleira). Isto explica que, cando en Cariño está orballando ou nubrado a causa do “vento”, en Cedeira gocemos de ceos máis despexados e incluso de temperaturas máis altas (case dous grados de diferenza entre ambos os municipios).
+</item>
+        <item>Dende este punto, a uns 425 metros de altitude, podemos observar a inmesidade do Atlántico fronte a nós. Ao norte (á nosa dereita) a aldea de Santo André de Teixido, asentada nun pequeno val en fronte do mar, coas rochosas illas Gabeiras a continuación. Santo André, pescador antes que apóstolo, chega a Teixido nunha barca que, segundo a lenda, se afunde e logo se petrifica; é o que hoxe coñecemos como pena Gabeira. O punto máis elevado que se contempla dende aquí son os impresionantes cantís de Herbeira, os máis altos da Europa continental (620 metros sobre o nivel do mar), e xusto por detrás destes pódense albiscar os cantís cariñeses do Cadro e do Limo. A sinuosa estrada que se ve dende este punto dános unha idea da salvaxe orografía da serra da Capelada.
+
+Ao outro lado da estrada pola que se chega a este miradoiro, e situado entre tres grandes amilladoiros, atópase o cruceiro chamado Cristo dos Carrís, feito da coñecida como “pedra de Moeche” ou toelo (serpentinita). Nesta zona conflúen todos os antigos camiños a Santo André de Teixido, de aí o seu nome “dos Carrís”. A súa función era sinalar o camiño dende o lugar de Reboredo (camiño interior dende Cedeira) e o comezo do descenso da “costa grande” antes de chegar a Santo André.
+
+Os amilladoiros son moreas de pedras que os romeiros a Santo André ían deixando no seu camino (preto dun santuario importante, cruces de camiños, lugares sagrados…). Chegáronse a contabilizar un total de 23 amilladoiros no camiño a Santo André, aínda que só se conservan media ducia deles, formados por miles de pedras que os peregrinos foron deixando ao longo dos séculos.
+
+Cabe a posibilidade de que os amilladoiros  que se atopan nas costas de baixada a Santo André de Teixido sexan os únicos destas características que se conservan no mundo, remontándose, quizais, a súa historia a antes do Neolítico, cando se supón que se deixaban pedras sobre os cadáveres para que a súa ánima non volvese ao mundo dos vivos.
+</item>
+        <item>Dende este punto, a uns 360 metros de altitude, podemos observar a inmensidade do Atlántico fronte a nós. Ao norte (á nosa dereita) sitúase a aldea de Santo André de Teixido, asentada nun pequeno val en fronte do mar, coas rochosas illas Gabeiras a continuación. Santo André, pescador antes que apóstolo, chega a Teixido nunha barca que, segundo a lenda, se afunde e logo se petrifica; é o que hoxe coñecemos como pena Gabeira. O punto máis elevado que se contempla dende aquí son os impresionantes cantís de Herbeira, os máis altos da Europa continental (620 metros sobre o nivel do mar), e xusto por detrás destes pódense albiscar os cantís cariñeses do Cadro e do Limo.
+
+Na curva da estrada que da acceso a este mirador podemos ver un dos amilladoiros que se conservan na actualidade (moreas de pedras que dende tempos ancestrais depositaban os romeiros no seu camiño a Santo André). Xusto dende esta curva baixa a chamada Costa Pequena, moi pronunciada e que transcorre ao longo de pouco máis dun quilómetro ata a aldea de Santo André. Cómpre ter conta de non pisar ningún animal no camiño, pois poden ser almas de xente que non fixo a romaría en vida e se ve na obriga de cumprir co camiño a Santo André reencarnado noutro ser.
+Unha vez na aldea, é case obrigado comprar os chamados sanandresiños, exvotos feitos de miga de pan cuidadosamente pintados de cores vivas que simbolizan a chegada de Santo André a Teixido, algún dos cales se foron perdendo co paso do tempo, á vez que se incorporaron outros.
+</item>
+        <item>Atopámonos nunha das contornas de máis beleza da costa cedeirense, a península de Robaleira, chamada así pola abundante presenza de robaliza nesta zona da ría de Cedeira. O faro da Robaleira foi construído no ano 1861 e deseñado por Celedonio de Uribe, enxeñeiro moi importante na historia dos faros galegos. Estivo habitado ata que entrou en funcionamento o de punta Candieira, aló polo ano 1954.
+
+Fronte a nós, o bulicioso porto e a lonxa de Cedeira na punta Sarridal, coroada polo castelo da Concepción. Na lonxa de Cedeira póxanse especies como o percebe, a pescada, a robaliza, o sargo ou o berberecho, procedentes da frota de baixura cedeirense que chega cada día ao porto. Vestixios do pasado amplamente ligado ao mar do pobo de Cedeira son os restos das antigas cetáreas onde se criaba o marisco, xusto nas inmediacións da cala Sonreiras, e tamén os restos dunha das fábricas de salgadura que estaban situadas na praia da Magdalena.
+
+Nesta mesma península pódese acceder, coa marea baixa, a un par de calas: Mi Señora e Cerdeiras ou Burbullas. Se ben o acceso á primeira é complicado, á segunda pódese chegar facilmente dende o sendeiro que percorre a península de Robaleira.
+
+A ría de Cedeira está considerada Reserva Mariña de Interese Pesqueiro dende o ano 2009, con tres zonas de protección dependendo das súas características pesqueiras e ecolóxicas. Está formada pola desembocadura de tres ríos: o río Ferrerías e o río das Mestas, na parte de Vilarrube, e o río Condomiñas, que desemboca no propio núcleo urbano da vila de Cedeira.
+</item>
+        <item>A parroquia cedeirense de San Fiz de Esteiro toma o seu nome, precisamente, do esteiro que temos fronte a nós: o esteiro do río das Mestas. Este río serve de fronteira natural entre os municipios de Cedeira e de Valdoviño e é o río que máis caudal achega á ría de Cedeira. Esta parte da ría constitúe unha reserva integral dentro da reserva mariña Ría de Cedeira, na cal está prohibida calquera actividade extractiva ou subacuática.
+
+Dende este punto podemos observar unha ampla perspectiva do esteiro do río das Mestas. Á nosa dereita, a península da Robaleira, co monte das Croas, onde existen restos dun antigo castro: o castro das Croas. Entre outros obxectos, nel apareceu unha moeda de bronce de Augusto, acuñada posiblemente no ano 26 a.C.  Neste lado da península da Robaleira criábanse as vides do país, tan famosas que no século XVI o Licenciado Molina dicía que Cedeira tiña “máis importancia de pan e viño na terra que de pesca no mar”.
+
+No lugar de Porto do Cabo, entre Esteiro e Vilarrube, seguindo pola estrada AC-566, consérvase un importante núcleo patrimonial formado por unha ponte medieval, un antigo hospital de peregrinos e varias pousadas como a Casa da Bastona, que prestaban servizo aos romeiros. Aquí, as chamadas “caldrupeiras” ofrecían unha cunca de caldo por un patacón, xa que era lugar de paso de varios camiños a Santo André e dun antigo camiño real. Aínda hoxe é parada obrigada no camiño a Santo André dende Ferrol e Xubia.
+</item>
+        <item>Ao pasar o faro de Punta Candieira, chegamos ata este punto dende o que pode contemplar unha inigualable vista do Faro a máis de 360 metros de altitude (mirando á esquerda) e San Andrés, descansando ente os escarpados cantís. O acceso non pode realizarse con vehículo.</item>
+        <item>De fácil acceso, aínda que por pistas forestais, este miradoiro en plena Serra da Capelada ofrece toda a inmensidade do val de Regoa, a baía de Cedeira e o rico e policromático aspecto da vila. Nos primeiros meses do outono é zona de cogomelos.
+No entorno deste miradoiro, atópanse “granulitas”, rochas de cores grises bandeadas e deformadas cun alto contido en granates, e orixinadas a partires de materiais atopados na corteza continental dun antigo arco isla volvánico.
+</item>
+        <item>Situado a 570 mtrs. de altitude, desde esta soberbia atalaia podemos contemplar toda a delicia da baía de Cedeira, que de lonxe asemella un lago.</item>
+    </string-array>
+    <string-array name="miradoiros_coord_1">
+        <item>43.660268</item>
+        <item>43.659842</item>
+        <item>43.704467</item>
+        <item>43.712240</item>
+        <item>43.663674</item>
+        <item>43.723730</item>
+        <item>43.700611</item>
+        <item>43.702378</item>
+        <item>43.650694</item>
+        <item>43.640160</item>
+        <item>43.707450</item>
+        <item>43.679860</item>
+        <item>43.694040</item>
+    </string-array>
+    <string-array name="miradoiros_coord_2">
+        <item>-8.074267</item>
+        <item>-8.067502</item>
+        <item>-8.051268</item>
+        <item>-7.972680</item>
+        <item>-8.069942</item>
+        <item>-7.945740</item>
+        <item>-7.987817</item>
+        <item>-7.990317</item>
+        <item>-8.069806</item>
+        <item>-8.041729</item>
+        <item>-8.030730</item>
+        <item>-7.997948</item>
+        <item>-7.980434</item>
+    </string-array>
+
+
+    <!-- **************** PATRIMONIO  ****************** -->
+
+    <string-array name="titulo_patrimonio">
+        <item>Vixía da Herbeira</item>
+        <item>Castelo da Concepción</item>
+        <item>Santo Antón de Corveiro</item>
+        <item>Museo Mares de Cedeira</item>
+        <item>Casco Antigo</item>
+        <item>Lonxa de Cedeira</item>
+        <item>Porto Pesqueiro</item>
+    </string-array>
+    <string-array name="descripcion_corta_patrimonio">
+        <item>En plena Serra da Capelada atópase esta xoia da Galicia Máxica...</item>
+        <item>O Castelo da Concepción (tamén chamado Fortín da Concepción) é unha fortaleza militar do século XVIII...</item>
+        <item>A Ermida e o lugar de Santo Antón de Corveiro teñen moi fonda significación para os veciños de Cedeira...</item>
+        <item>Preto do Faro da Robaleira, hai que acceder a pé atravesando unha preciosa e tranquila zona boscosa por un camino estreito...</item>
+        <item>Según consta en un manuscrito del Conde de Lemos fechado en el siglo XVI, Sir Lanzarote de Lago, el más grande de los caballeros del Rey Arturo</item>
+        <item>Rúa Peirao s/n...</item>
+        <item>Cedeira leva toda a súa historia mirando ao mar...</item>
+    </string-array>
+    <string-array name="descripcion_larga_patrimonio">
+        <item>En plena Serra da Capelada atópase esta xoia da Galicia Máxica, un mirador privilexiado sobre o océano Atlántico desde os cantís máis altos e espectaculares da Europa continental (620 metros) e con pendentes que superan o 80%.
+As vistas permiten contemplar nos días de visibilidade as Puntas Tarroiba e Punta Robaliceira.
+No punto máis alto da Serra (o Monte Herbeira) está situada unha pequena caseta de mampostería de principios do século XIX, que forma parte dunha serie de construccións adicadas á vixiancia costeira e marítima, a Vixía de Herbeira, que tiña como obxectivo dar acubillo aos pequenos destacamentos militares que levaban a cabo esa labor. Foi deseñada polos arquitectos da Coroa e construida polos veciños da comarca, e aproxímase a súa finalización ao ano 1805 e posteriormente rehabilitada no 2003. Trátase dunha construcción de granito duns 15 metros cadrados de planta rectangular, con tres xanelas e unha cheminea.
+Nesta zona, lugar de pasto de cabalos e vacas semisalvaxes, podemos atopar un parque eólico de aproveitamento dos ventos da zona.
+
+        Poden visitarse algunas garitas de vixía máis en Cedeira, como:
+	Garita de Eixil (Localización: 43.676620, -8.063085)
+	Garita de Vilar(Localización: 43.676628, -8.063067)
+</item>
+        <item>O Castelo da Concepción (tamén chamado Fortín da Concepción) é unha fortaleza militar do século XVIII (ano 1747) chea de historia, testemuña de grandes batallas e miradoiro da historia da Ría.
+O motivo da súa construcción foi a solicitude dos habitantes de Cedeira á Mariña despois de que durante a guerra con Inglaterra fosen arrasadas a batería do Sarridal e a Ermida de Santo Antón do Corveiro, e en apenas 5 meses estivo listo.
+O Castelo atópase enclavado sobre un castro ao que pertencen os fosos que poden ainda verse.
+Fontes de financiamento para a construcción do castelo como defensa da vila foron doazóns de materiais de Marina (como os cañóns non utilizados en Ferrol), a coroa (ata 9.000 reais entregou Fernando VI) e por suposto a axuda da poboación.
+Nos anos de maior actividade, chegou a ter 15 canóns e 30 homes ás ordes da comandancia.
+Na actalidade é un Centro de interpretación onde poden contemplarse reproduccións de navíos, réplicas de traxes ou armas utilizadas nas batallas.
+Pero sen dúbida, o máis chamativo é a reconstrucción de estancias do propio Castelo que permite coñecer cómo eran a cociña ou o almacén de pólvora.
+
+Datos de interese
+Acceso:
+•	A Pe: a o chegar ao espigón do Porto, subir as escaleiras que nacen á dereita
+•	Con vehículo: sair da Vila camiño de San Antonio de Corveiro, e ao chegar ao cartaz de Rede Natura tomar o desvío da esquerda.
+
+Entrada: gratuíta
+
+Horario:
+•	Luns: Pechado
+•	De martes a venres: 11.30-13.30 horas
+•	Sábado: 18.00-20.00 horas
+•	Domingo: 17.30-20.00 horas
+</item>
+        <item>A Ermida e o lugar de Santo Antón de Corveiro teñen moi fonda significación para os veciños de Cedeira.
+En canto á historia da Ermida de Corveiro, non se atopan en ningún documento referencias anteriores a xaneiro de 1662 cando faleceu unha veciña desta parroquia e no seu testamento, encargou varias misas, e deixou reflectido textualmente “mando dos en la Ermida de San Antonio de Corveiro”.
+O 2 de Xullo de 1747 tres barcos estranxeiros (“unha fragata y dos paquebotes corsarios ingleses”), apareceron na ría perseguindo unhas naves de carga españolas, acabaron por dar con elas dentro da ría, e por plantarlles lume. A maiores, varios individuos da tripulación da fragata, saltaron a terra, chegaron ata a Ermida de Corveiro e arramplaron canto lles foi posible (a imaxe de S. Ramón é a única que se conserva).
+Os veciños de Cedeira, advertindo a necesidade que había de precaver futuros ataques, decidiron construir un fortín, que é o “Castillo de Concepción”, que en decembro de aquel mesmo ano -1747- xa estaba rematado. Algún papel do século XVIII chámalle “Castillo de San Antonio y la Concepción de Cedeira”.
+O Cristo de pedra, que se pode ver a pouquiña distancia do templo estivo algún día na entrada da Vila de Cedeira, nunha vella ponte xa desfeita sobre o río Condimiñas, de aí o motivo de que sexa coñecido tamén como “Cristo da Ponte”. Ainda que restaurado, a obra orixinal data do ano 1746. No recinto da Ermida de San Antonio leva desde 1968.
+Nos anos noventa a porta de entrada da sacristía gañou en aspecto co seu novo marco de pedra de grao, aproveitado da vella e desaparecida casa rectoral cedeiresa. O cargadoiro co escudo é da mesma procedencia, e a simboloxía clerical parece cousa do século XVI, resultando ser, deste xeito, o máis antigo que hai na Ermida, mesmo ben anterior á data de fundación.
+Más alá da ermida e do cruceiro, sen dúbida Santo Antón é coñecido polo que o rodea. O entorno de Santo Antón de Corveiro constitue un privilexiado miradoiro da entrada da ría de Cedeira con impresionantes vistas da ría, rodeada de cantís e co océano batindo con forza a súa costa. O lugar é inigualable como área de recreo, acondicionada nos pinares que  con bancos e mesas, e situado neste alto con fermosas vistas. Todos os anos a tradicional  romería e posterior celebración campestre neste punto da por rematadas as festas da patrona adicadas á Virxe do Mar a mediados de agosto.
+</item>
+        <item>Dirección: Casa do Pescador – Camiño de Arealonga, 1 CP 15350 Cedeira – A Coruña
+Precio entrada: 1 euro
+Horario (Aberto de martes a domingo)
+•	Verán (15 de xullo a 15 setembro): 10:30h-13:30h e 17:30h-19:30h
+•	Inverno (Resto do ano): Só sábados e domingos: 10:00h-13:30h e 16.30h-18.00h
+Grupos: poden realizarse visitas guiadas para grupos fora do horario de apertura ao público.
+  www.maresdecedeira.gal
+  www.facebook.com/Mares-de-Cedeira-Museo-262447650864847
+  620972981
+  maresdecedeira@gmail.com
+
+O Museo Mares de Cedeira é unha iniciativa cultural museística que pon en valor o traballo dos homes e mulleres do mar, favorece que se coñezan os seus medios de traballo e difunde a cultura mariñeira.
+O Museo xurdiu da iniciativa da asociación “Mares de Cedeira”, o Concello e a Confraría de Pescadores, e inaugurouse o 23 de xullo de 2016. Recentemente, o Museo foi recoñecido pola Xunta de Galicia como colección visitable e incluído na Rede de Museos e Coleccións Vistables, un impulso máis para seguir dando a coñecer, especialmente entre os máis novos, o traballo e a cultura do mar, tan vencellado á historia de Cedeira.
+Ocupa unha superficie de 320 metros cadrados repartidos en distintas salas entre as que destacan:
+•	Sala de Embarcacións: amosa unha colección de maquetas de barcos que formaron parte da flota cedeiresa e embarcacións tradicionais.
+•	Sala de artes de pesca, navegación e fábricas de salgadura: preséntase un conxunto de artes de pesca, anzois, liñas, poteiras, etc. así como artes de rede tradicionais. Así mesmo, están representadas as fábricas de salgadura e conserva que tivo Cedeira.
+•	Sala “Anacos da historia”: Baixo este epígrafe recompilanse fondos de varias salas do museo. Aquí hai fósiles mariños que apareceron nas redes dos barcos da Vila nos caladoiros nos que adoitan faenar; son pezas únicas doadas polos mariñeiros e que serviron a moitos científicos para facer teses doutorais sobre os antigos cetáceos. Neste espazo do Museo hai parte da cabeza dun Megalodón, unha especie extinguida hai dous millóns e medio de anos; ou documentos do século dezanove como un libro de compra de lagosta; obxectos recuperados, como un portillo e timbre, da alarma dun dos remolcadores que participou no desembarco de Normadía.
+•	Colección de malacoloxía “Manuel Suárez”: composta por 5091 exemplares de cunchas e gasterópodos procedentes de Galicia e de todo o mundo, un catálogo fermosísimo e raro.
+</item>
+        <item>Según consta en un manuscrito del Conde de Lemos fechado en el siglo XVI, Sir Lanzarote de Lago, el más grande de los caballeros del Rey Arturo, habría desembarcado en el puerto de Cedeira procedente de Bretaña y huyendo del amor que profesaba por la reina Ginebra. Un manuscrito que la villa nos descubre a través de un enorme mural de cerámica ubicado junto a la casa consistorial y que co-preside con ésta una agradable placita en la que destaca un enorme naranjo centenario.
+
+Leyenda o no, paseando por el casco histórico de Cedeira no sería difícil imaginarse al noble caballero. Y es que el callejero de su zona antigua fue dibujado y levantado en el Medievo sin que, a día de hoy, se modificasen los itinerarios originales. Lo que en un principio fue el núcleo de la villa se configura a base de estrechas y empinadas callejuelas, jalonadas por pequeñas viviendas la mayoría con galerías y balcones de madera y forja. Sobre sus fachadas todavía lucen escudos nobiliarios en piedra que identificaban a sus antiguos moradores. Familias como los Andrade, Montenegro, Pardo... De aquella época se conservan también algunos arcos de piedra característicos en los inmuebles por aquel entonces y que, reformas posteriores, ocultaron o destruyeron. Y de aquellos años data igualmente la estatua yacente de Alonso Piñeiro, acompañada de frontal blasonado, que puede visitarse en la iglesia parroquial dedicada a Nuestra Señora del Mar.
+
+Decididos a perdernos por esas angostas calles podemos descubrir los restos de la primigenia muralla defensiva que rodeaba el casco histórico y al que se accedía a través de cuatro puertas o portales. Hoy en día, la entrada a este espacio lleno de historia ha de hacerse a través del puente viejo, un monumento histórico en sí mismo construido sobre tres arcos de piedra que salvan el río Condomiñas. El mismo en el que se reflejan las siluetas de un buen número de edificios singulares levantados en su margen derecho. Edificios con un encanto especial que emana, muy especialmente, de sus hermosas galerías acristaladas. Miradores privilegiados a la ría. Todos ellos nos acompañan en el paseo que une el puente viejo y el nuevo y nos permiten, gracias a los cafés y negocios de restauración que acogen sus bajos, disfrutar de agradables tertulias con la ría como telón de fondo. Durante el día y, muy especialmente, en las noches del verano.
+
+Llegados al puente nuevo, podemos aquí iniciar una nueva etapa en el camino. En este caso, disfrutaremos de hermosos jardines con vistas a la playa principal, la de la Magdalena. Alcanzaremos la antigua Casa del Mar y saludaremos a la Muller Mariñeira o Peixeira. Desde la impresionante roca que le sirve de pedestal, nos indicará con su dedo pétreo el camino hacia el puerto. Llegaremos primero a la antigua lonja, epicentro en otro día de la venta del pescado llegado al puerto. Bordearemos la playa portuaria de Area Longa para disfrutar de la visión de cientos de pequeñas embarcaciones que esperan al marinero. Divisaremos el Castillo de La Concepción y nos imaginaremos las miles de noches de vigía, las batallas libradas en su entorno, los secretos de sus estancias. Y, como punto final, el puerto pesquero. El olor a salitre. Las grandes embarcaciones. La lonja y su actividad frenética con constantes descargas y subastas aceleradas. Un auténtico espectáculo.</item>
+        <item>Rúa Peirao s/n
+15350 Cedeira (A Coruña)
+
+Teléfono:	+34 981 480 041
+
+
+http://www.confrariacedeira.es/
+</item>
+        <item>Cedeira leva toda a súa historia mirando ao mar.
+Dende o seu nome, que provén do latín Cetarea.
+Cedeira foi un dos portos baleeiros más importantes de Galicia na Idade Media, e paso de corsarios ingleses, franceses e arxelinos na Idade Moderna.
+En 1747, 40 bergantís españois con madeira e terra para a construcción do arsenal de Ferrol foron derrotados na Ría de Cedeira, no que se coñeceu como “rebato ou insulto do 1747”, e o que deu lugar á construcción en menos de 5 meses do que hoxe coñecemos como “Castelo da Concepción”, como batería de defensa da Ría.
+A ría de Cedeira é un espazo de gran singularidade paixasística e de alto valor xeolóxico.
+A ría é Reserva Mariña de interese pesqueiro dende 2009 co obxetivo de conservar a diversidade biolóxica e a recuperación do ecosistema mariño, para a xestión da pesca e a súa sostenibilidade cun modelo de xestion sostible das especies e dos econsistemas mariños.
+</item>
+    </string-array>
+    <string-array name="patrimonio_coord_1">
+        <item>43.723685</item>
+        <item>43.658562</item>
+        <item>43.663927</item>
+        <item></item>
+        <item></item>
+        <item>43.39395</item>
+        <item>43.39323</item>
+    </string-array>
+    <string-array name="patrimonio_coord_2">
+        <item>-7.945687</item>
+        <item>-8.071517</item>
+        <item>-8.069608</item>
+        <item></item>
+        <item></item>
+        <item>-8.03204</item>
+        <item>-8.04129</item>
+    </string-array>
+
+
+    <!-- ****************  RUTAS  ****************** -->
+
+    <string-array name="titulo_rutas">
+        <item>Serra da Capelada</item>
+        <item>Porta da Vila</item>
+        <item>Porta de Cartas</item>
+        <item>Porta de Rebordelo</item>
+        <item>Porta de Ribeira ou do Areal</item>
+        <item>Paseo Marítimo</item>
+        <item>Paseo Fluvial</item>
+        <item>Praza Roxa</item>
+        <item>Parque da Revolta</item>
+        <item>Praza do Floreal</item>
+        <item>Parque do Romeiro</item>
+        <item>Rúa dos Mariñeiros</item>
+        <item>Ferrol-San Andrés</item>
+        <item>Terras de Cedeira</item>
+        <item>Liñares e Robaleira</item>
+        <item>Granate</item>
+        <item>Cantís</item>
+        <item>Praias Negras</item>
+        <item>Cromo</item>
+    </string-array>
+    <string-array name="descripcion_corta_rutas">
+        <item>Punta Candieira, punta do Cadro, punta Herbeira. Alí as tendes en puxilato xeolóxico co Atlántico...</item>
+        <item>Era na que se colocaban os avisos, as noticias e pota que hoxe mantemos o dito popular...</item>
+        <item>Chamada así porque había unha finca que tiña catro donos e polo tanto catro partes (cuartos – cartas)...</item>
+        <item>Podemos acceder a ela dende a Rúa Cerería, antes chamada Tras das Cercas...</item>
+        <item>Recibe o seu nome pola proximidade ao mar e ao areal. Usada principalmente polas persoas...</item>
+        <item>La villa de Cedeira tiene mucho encanto, especialmente su paseo marítimo...</item>
+        <item>O Río Condomiñas, que atravesa a Vila de Cedeira ata desembocar na ría, estase a descubrir como un dos lugares favoritos de veciños...</item>
+        <item>Ubicada en pleno centro do casco urbano sobre unha zona areeira que non era outra cousa...</item>
+        <item>Un auténtico tapón para o sistema dunar, amplísima e cada vez máis concorrida, que discurre...</item>
+        <item>Ubicada sobre o que no seu día se asentaba o Parque Pista Floreal, de merecida sona en toda a bisbarra...</item>
+        <item>Situado ao final da rúa Ortigueira, a rentes do paseo fluvial...</item>
+        <item>Situado ao longo de dita rúa, é un dos máis recientes de Cedeira ...</item>
+        <item>Cedeira conta con Grandes Rutas que superan os 25 km e permiten ser realizadas nunha...</item>
+        <item>Lonxitude: 40km...</item>
+        <item>A Asociación de Veciños da Parroquia de Piñeiro ten creado dúas rutas: A ruta de Liñares...</item>
+        <item>A xeoruta do granate discorre por un pequeno sendeiro de pescadores dende o santuario de Santo André...</item>
+        <item>Con esta xeoruta contemplaranse unhas impresionantes vistas panorámicas da Serra...</item>
+        <item>Esta ruta xeolóxica permite coñecer a que está considerada como a única praia de area negra non volcánica...</item>
+        <item>Nesta xeoruta percorreranse os cantís máis elevados da Europa continental, unha vista privilexiada...</item>
+    </string-array>
+    <string-array name="descripcion_larga_rutas">
+        <item>“Punta Candieira, punta do Cadro, punta Herbeira. Alí as tendes en puxilato xeolóxico co Atlántico. O anaco de costa que vai do Prior aos Aguillós non ten en ningures unha maior beleza. Para pódela decir sería preciso alguna das dúas condicións seguintes; ser xeólogo que escribirá como Sir Carlos Robert Darwin cando fixo en veleiro a circunnavegación do mundo; ou ser poeta coma Pondal”
+(Ramón Otero Pedrayo. Pelerinaxes I, páxs. 194-208)
+</item>
+        <item>Era na que se colocaban os avisos, as noticias e pota que hoxe mantemos o dito popular: “Es como a porta da vila!” (aplicado á xente que todo o conta). Unha figura importante desa porta era o monteiro maior encargado (xunto cun grupo de xente) de facer as batidas na Capelada, pois naqueles tempos abondaban os lobos e cando cazaban un, poñían a cabeza enriba da porta e acudían o escribán e o alcalde a atestiguar tal proeza.
+Preto desta porta, pero xa fóra das murallas, estaba a forxa (na rúa Calexa das Forxas). A razón para tela lonxe do recinto amurallado é evidente.
+</item>
+        <item>Chamada así porque había unha finca que tiña catro donos e polo tanto catro partes (cuartos – cartas). Esa porta era usada polos que entraban e saían da Ribeira, xente que na súa maioría se adicaba á labranza.</item>
+        <item>Podemos acceder a ela dende a Rúa Cerería, antes chamada Tras das Cercas, pois por alí pasaba a muralla da primitiva Cedeira. Cara abaixo da rúa ternos o Cristo de Rebordelo, onde situaremos a terceira porta, lugar onde remataba Cedeira. Esta porta daba servizo de entrada e saída para a xente que quería acceder a San Antonio.</item>
+        <item>Recibe o seu nome pola proximidade ao mar e ao areal. Usada principalmente polas persoas que se adicaban ás labores do mar. Posiblemente fronte a ela existise un embarcadoiro. Xa non queda case nada deste tempo, salvo un anaco da muralla cunhas poucas ameas, (situada un pouco máis adiante do bar da Marina, nunha rúa moi estreita onde podemos observar unha inscrición) e un lenzo, no patio de entrada,,ao concello, no que, segundo consta nun manuscrito do Conde de Lemos (S. XVI), Sir Lanzarote do Lago, o máis grande dos cabaleiros do Rei Arturo, desembarcou no porto de Cedeira, procedente da Bretaña, fuxindo do amor que profesaba pola raíña Xiñebra.</item>
+        <item>La villa de Cedeira tiene mucho encanto, especialmente su paseo marítimo, que termina en el puerto, y desde donde se puede disfrutar de vistas de la playa de la Magdalena, de los montes cercanos y por supuesto de la ría. La playa de la Magdalena es segura y de arena blanca y fina.</item>
+        <item>O Río Condomiñas, que atravesa a Vila de Cedeira ata desembocar na ría, estase a descubrir como un dos lugares favoritos de veciños e visitantes de todas as idades para pasear ou facer deporte polo casco urbán da Vila.
+Paseando polas marxes do río ponse en valor o potencial da natureza tamén nesta zona da vila, ademáis de poder observar “as dúas Cedeiras” existentes, dependendo do lado do río que se observe.
+Á dereita, encóntrase o casco vello, de rúas estreitas e na antigüidade rodeado dunha muralla. Na marxe esquerda, a nova Cedeira, moderna e organizada en torno á praia da Magdalena e as vías de saída da Vila.
+Ao longo do paseo que discurre nas marxes do río, podemos desfrutar das ocas, patos e cisnes brancos e negros que poboan o río, e máis concretamente poden observarse no “Parque dos Patos” ou “Parque do Romeiro”, así como disfrutar da observación de distintas especies de aves migratorias e paxaros que dispoñen neste río dunha zona de refuxio: patos, ocas, cisnes, garzas, corvos mariños ou correlimos.
+Ao adentrarse no paseo, a paixase cambia por completo, e os edificios e vivendas prácticamente desaparecen para dar paso á flora e fauna autóctonas da Vila.
+</item>
+        <item>Ubicada en pleno centro do casco urbano sobre unha zona areeira que non era outra cousa que a prolongación da propia praia da Madalena, é hoxendía o lugar onde teñen lugar (ou rematan nel) a gran maioría dos espectáculos multitudinarios que acontecen ao longo do ano ao aire libre.</item>
+        <item>Un auténtico tapón para o sistema dunar, amplísima e cada vez máis concorrida, que discurre en paralelo ao areal do mesmo nome, na que se atopa unha pista multiusos, circundada por un graderío ou anfiteatro.</item>
+        <item>Ubicada sobre o que no seu día se asentaba o Parque Pista Floreal, de merecida sona en toda a bisbarra.
+Trátase dun espazo coqueto e recollido, no que tamén se realizan actividades de lecer en momentos puntuais do ano.
+</item>
+        <item>Situado ao final da rúa Ortigueira, a rentes do paseo fluvial, río arriba, nunha zona que estaba moi degradada e que foi mellorada sustancialmente en anos anteriores.
+Conta cunha área de descanso e lecer.
+</item>
+        <item>Situado ao longo de dita rúa, é un dos máis recientes de Cedeira (non ten máis de 30 anos) localizado en terreos antes marítimos e no que poden contemplarse preciosas vistas da Praia da Madalena e a desembocadura do Río Condomiñas.</item>
+        <item>Cedeira conta con Grandes Rutas que superan os 25 km e permiten ser realizadas nunha ou varias etapas. Trátase de rutas moi recomendables para os amantes do sendeirismo.
+Destacan  as  rutas de peregrinación, como o Camiño a Teixido, con inicio dende Ferrol, dirixese cara ao Norte ao santuario de San Andrés de Teixido. Este itinerario, cargado de historia, permite gozar das mellores vistas. Recoméndase realízalo en 2 etapas.
+Pode descargar aquí o itinerario preparado polo Club Montaña Ferrol (con propostas para realízalo entre 1 e catro etapas):
+</item>
+        <item>Lonxitude: 40km
+
+Calificación: moi dura
+
+Saída: Praza Roxa
+
+Tipo: Circular
+
+Duración estimada: 8/10h
+
+Tipo de marcaxe: Frechas amarelas e brancas, e un logo de dous percebes camiñantes</item>
+        <item>A Asociación de Veciños da Parroquia de Piñeiro ten creado dúas rutas: A ruta de Liñares e a ruta Robaleira, ambas entre 13 e 15 kilómetros, dunha duración aproximada de 4 horas e de dificultae baixa.
+Na seguinte ligazón, pode descargarse a información destas rutas preparados pola Asociación de Veciños de Piñeiro que discorren por Cedeira:
+</item>
+        <item>A xeoruta do granate discorre por un pequeno sendeiro de pescadores dende o santuario de Santo André ata a enseada das Cortes, onde se observa unha ampla variedade de rochas moi chamativas tanto pola súa cor coma pola súa textura. Así como un salientable número de estruturas xeolóxicas, que poñen de manifesto a intensa deformación que afectou a esta rexión fai 350 millóns de anos. Esta ruta xeolóxica permitirá descubrir unha das zonas máis descoñecidas do litoral de Cedeira.
+DATOS DE INTERESE
+Idade mínima: 16 anos
+Duración: 6 h. Distancia: 5 km. Dificultade: alta
+Punto de saída: Santo André de Teixido ou oficina de turismo
+Nesta xeoruta só poderán asistir un máximo de 15 pers. Superado ese límite deberá escollerse outra data dispoñible.
+Na seguinte ligazón, poderá realizar a inscrición online nesta xeoruta:
+</item>
+        <item>Con esta xeoruta contemplaranse unhas impresionantes vistas panorámicas da Serra da Capelada, descubrindo así unha salientable estrutura xeolóxica de máis de 400 m de altitude. Do mesmo xeito poderanse tocar rochas que hai millóns de anos se atopaban a 70 km de profundidade ou no fondo dun antigo océano, que posteriormente foron intensamente deformadas pola colisión de dous supercontinentes hai 350 millóns de anos.
+DATOS DE INTERESE
+Idade mínima: 6 anos
+Duración: 4 h. Distancia: 5 km. Dificultade: baixa
+Punto de saída: Chao do Monte ou oficina de turismo
+Nesta xeoruta só poderán asistir un máximo de 20 pers. Superado ese límite deberá escollerse outra data dispoñible.
+Na seguinte ligazón, poderá realizar a inscrición online nesta xeoruta:
+</item>
+        <item>Esta ruta xeolóxica permite coñecer a que está considerada como a única praia de area negra non volcánica do noso planeta. Pero sen dúbida o emprazamento desta praia de Teixidelo aos pés dos cantís máis altos da Europa continental, fan desta zona un lugar de paisaxes incribles e cheo de contrastes. Ao longo da ruta tamén poderán ollarse a fervenza ou a falla de Teixidelo, unha estrutura xeolóxica que discorre por un fermoso val de orixe glaciar. O que evidencia que o clima no pasado foi moito máis frío.
+Na seguinte ligazón pode ver un vídeo desta ruta
+
+DATOS DE INTERESE
+Idade mínima: 16 anos
+Duración: 7 h. Distancia: 4,5 km. Dificultade: alta
+Punto de saída: Cruceiro de Teixidelo ou oficina de turismo
+Nesta xeoruta só poderán asistir un máximo de 15 pers. Superado ese límite deberá escollerse outra data dispoñible.
+Na seguinte ligazón, poderá realizar a inscrición online nesta xeoruta:
+</item>
+        <item>Nesta xeoruta percorreranse os cantís máis elevados da Europa continental, unha vista privilexiada para contemplar o litoral entre Teixido e a Punta do Cadro. Unha zona que xeolóxicamente destaca pola presenza de rochas moi pouco habituais na superfi cie do noso planeta e que asociadas a elas foron descubertas acumulacións de minerais de cromo e platino. Pero esta visita guiada permite ollar tamén a presenza dunha salientable falla que corta toda a Serra da Capelada.
+ DATOS DE INTERESE
+Idade mínima: 6 anos
+Duración: 4 h. Distancia: 6 km. Dificultade: baixa
+Punto de saída: Cruceiro de Teixidelo ou oficina de turismo
+Nesta xeoruta só poderán asistir un máximo de 20 pers. Superado ese límite deberá escollerse outra data dispoñible.
+Na seguinte ligazón, poderá realizar a inscrición online nesta xeoruta:
+</item>
+    </string-array>
+    <string-array name="rutas_coord_1">
+        <item>43.656648</item>
+        <item>43.661149</item>
+        <item>43.660946</item>
+        <item>43.659810</item>
+        <item>43.659702</item>
+        <item>43.3856236</item>
+        <item>43.664115</item>
+        <item>43.660610</item>
+        <item>43.656523</item>
+        <item>43.660522</item>
+        <item>43.664072</item>
+        <item>43.659579</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="rutas_coord_2">
+        <item>-8.052917</item>
+        <item>-8.056632</item>
+        <item>-8.057499</item>
+        <item>-8.057960</item>
+        <item>-8.056733</item>
+        <item>-8.310570</item>
+        <item>-8.051954</item>
+        <item>-8.054462</item>
+        <item>-8.051958</item>
+        <item>-8.052201</item>
+        <item>-8.051954</item>
+        <item>-8.056519</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="pdf1_rutas" formatted="false">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>http://turismo.cedeira.gal/wp-content/uploads/2017/07/Itinerario-ruta-Ferrol-San-Andr%C3%A9s-GAL.pdf</item>
+        <item></item>
+        <item>http://turismo.cedeira.gal/wp-content/uploads/2017/07/Ruta-de-Li%C3%B1ares-e-Robaleira-GAL.pdf</item>
+        <item>https://docs.google.com/forms/d/1v4Kee2FhtyOP_hN4ZYhoZHG0d5L3c63-wO8dgfzqUo8/viewform?edit_requested=true</item>
+        <item>https://docs.google.com/forms/d/1v4Kee2FhtyOP_hN4ZYhoZHG0d5L3c63-wO8dgfzqUo8/viewform?edit_requested=true</item>
+        <item>https://docs.google.com/forms/d/1v4Kee2FhtyOP_hN4ZYhoZHG0d5L3c63-wO8dgfzqUo8/viewform?edit_requested=true</item>
+        <item>https://docs.google.com/forms/d/1v4Kee2FhtyOP_hN4ZYhoZHG0d5L3c63-wO8dgfzqUo8/viewform?edit_requested=true</item>
+    </string-array>
+    <string-array name="pdf2_rutas" formatted="false">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>http://turismo.cedeira.gal/wp-content/uploads/2017/07/Itinerario-ruta-Ferrol-San-Andr%C3%A9s-ESP.pdf</item>
+        <item></item>
+        <item>http://turismo.cedeira.gal/wp-content/uploads/2017/07/Ruta-de-Li%C3%B1ares-e-Robaleira-ESP.pdf</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="pdf3_rutas" formatted="false">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>http://turismo.cedeira.gal/wp-content/uploads/2017/07/Ruta-Ferrol-San-Andr%C3%A9s-primeira-parte.pdf</item>
+        <item>http://turismo.cedeira.gal/wp-content/uploads/2017/06/Rutas-das-Terras-de-Cedeira-Primeira-parte.pdf</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="pdf4_rutas" formatted="false">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>http://turismo.cedeira.gal/wp-content/uploads/2017/07/Ruta-Ferrol-San-Andr%C3%A9s-Segunda-parte.pdf</item>
+        <item>http://turismo.cedeira.gal/wp-content/uploads/2017/06/Rutas-das-Terras-de-Cedeira-Segunda-parte.pdf</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+
+    <!-- ****************  HOTEL  ****************** -->
+    <string-array name="titulo_hotel">
+        <item>HOTEL HERBEIRA</item>
+        <item>HOTEL RESTAURANTE AVENIDA</item>
+        <item>HOSPEDERÍA MESÓN SPA LEIRA ANTIGA</item>
+        <item>HOSTAL CHELSEA</item>
+        <item>O CARREIRO APARTAMENTOS</item>
+        <item>HOSPEDERÍA CORDOBELAS</item>
+        <item>CASA A PASADA</item>
+        <item>APARTAMENTO RURAIS A CASAVELLA</item>
+        <item>CASA RURAL CALZADA ROMANA</item>
+        <item>SURFHOUSE CEDEIRA</item>
+    </string-array>
+    <string-array name="descripcion_corta_hotel">
+        <item>DIRECCIÓN: Lugar de Cordobelas, s/n...</item>
+        <item>DIRECCIÓN:  Avenida de Castelao, 66...</item>
+        <item>DIRECCIÓN: Lugar de Piñeiro...</item>
+        <item>DIRECCIÓN: Praza Sagrado Corazón, 10...</item>
+        <item>DIRECCIÓN: Lugar de Santalla...</item>
+        <item>DIRECCIÓN: Lugar de Cordobelas, nº 29B...</item>
+        <item>DIRECCIÓN: Lugar de A Pasada – San Román, 15...</item>
+        <item>DIRECCIÓN: Lugar de Barral – Régoa...</item>
+        <item>DIRECCIÓN: Lugar As Barrosas, Régoa...</item>
+        <item>DIRECCIÓN: Avenida Zumalacarregui, 72...</item>
+    </string-array>
+    <string-array name="descripcion_larga_hotel">
+<item>DIRECCIÓN: Lugar de Cordobelas, s/n
+TELÉFONO: 981 492 167 – 679 382 989
+WEB: www.hotelherbeira.com</item>
+        <item>DIRECCIÓN:  Avenida de Castelao, 66
+TELÉFONO: 981 492 112 – 981 480 998
+WEB: www.hostalrestauranteavenida.com</item>
+        <item>DIRECCIÓN: Lugar de Piñeiro
+TELÉFONO: 981 482 484 – 628 532 067
+WEB: www.leiraantiga.com/</item>
+        <item>DIRECCIÓN: Praza Sagrado Corazón, 10
+TELÉFONO: 981 482 340
+WEB: www.hostalchelseacedeira.com</item>
+        <item>DIRECCIÓN: Lugar de Santalla
+TELÉFONO: 981 480 094 – 981 480 805 – 981 482 698
+WEB: www.ocarreiro.com</item>
+        <item>DIRECCIÓN: Lugar de Cordobelas, nº 29B
+TELÉFONO: 981 480 607
+WEB: www.cordobelas.es</item>
+        <item>DIRECCIÓN: Lugar de A Pasada – San Román, 15
+TELÉFONO: 981 483 623 – 659 330 892
+WEB: www.apasada.com</item>
+        <item>DIRECCIÓN: Lugar de Barral – Régoa
+TELÉFONO: 981 481 409 – 655 971 748
+WEB: www.acasavella.com</item>
+        <item>DIRECCIÓN: Lugar As Barrosas, Régoa
+TELÉFONO: 981 446 944 – 609 464 838
+WEB: www.restaurantecalzadaromana.com</item>
+        <item>DIRECCIÓN: Avenida Zumalacarregui, 72
+TELÉFONO: 636 945 939 – 650 889 843 – 671 685 331
+WEB: www.surfhousecedeira.com</item>
+    </string-array>
+
+    <!-- ****************  RESTAURANTES  ****************** -->
+
+    <string-array name="titulo_restaurante">
+
+        <item>RESTAURANTE SÁLVORA</item>
+        <item>CERVECERÍA LA CENTRAL</item>
+        <item>RESTAURANTE BADULAQUE</item>
+        <item>TABERNA DA CALEXA</item>
+        <item>PASTELÓN LAS CAMELIAS</item>
+        <item>MESÓN SAN ANTÓN</item>
+        <item>RESTAURANTE BRISA</item>
+        <item>HOTEL RESTAURANTE AVENIDA</item>
+        <item>RESTAURANTE EL NÁUTICO</item>
+        <item>VINOTECA RESTAURANTE A PONTE VELLA</item>
+        <item>MESÓN LEIRA ANTIGA</item>
+        <item>CAFÉ BAR EL MARINO (O Ramón) </item>
+        <item>MESÓN MUIÑO KILOWATIO </item>
+        <item>MESÓN A MARIETA</item>
+        <item>MESÓN A BODEGA</item>
+        <item>MESÓN PULPERÍA A RÍA</item>
+        <item>RESTAURANTE A BALANDRA</item>
+        <item>ALDEBARÁN RESTAURANTE-CAFÉ</item>
+        <item>RESTAURANTE EL NIDO</item>
+        <item>ASADOR LUGAR DE REBOREDO</item>
+        <item>MESÓN O MESÓN</item>
+        <item>MESÓN O LAR</item>
+        <item>PIZZERÍA STOP</item>
+        <item>PIZZERÍA LANÚS</item>
+        <item>PIZZERÍA A PEDREIRA</item>
+        <item>MESÓN AREAL</item>
+        <item>RESTAURANTE CALZADA ROMANA</item>
+        <item>MESÓN EIRAVELLA </item>
+
+
+    </string-array>
+    <string-array name="descripcion_corta_restaurante">
+<item> DIRECCIÓN: R/ Campo da Cruz-Esteiro Cedeira
+HORARIO: 13:00h-18:00h e de 20:00h a peche
+TELÉFONO: 981 481 003 – 669 140 705 </item>
+        <item> DIRECCIÓN: Avenida Castelao 16
+HORARIO: Luns a venres de 9:00h a peche;  sábados e domingos de 10:30h a peche
+TELÉFONO: 981 480 037 </item>
+        <item> DIRECCIÓN: Carreteira de Arealonga, 1, baixo
+HORARIO: Apertura: invierno de 11:00h a 19:00h; verán de 11:00h a 20:00h.
+TELÉFONO: 981 492 265 </item>
+        <item> DIRECCIÓN: Rúa Eirexa, 7. A entrada do local é por un calexón no que pódese ver restos da antigua muralla de Cedeira, e ademáis a casa na que se encontra o negocio data do século XVIII.
+HORARIO: Inverno: Venres e sábado de 11:30 ha 15:30h pola mañá e de 20:00 a peche pola tarde. Domingos de 11:30h a 15:30h. Verán: Abrimos todos os días de 11:30h a 15:30h e de 20:00h a peche.
+TELÉFONO: 981 482 009 / 635 691 018 </item>
+        <item> DIRECCIÓN: Polígono a Xunqueira, 16
+TELÉFONO: 981 480 724 / 699 463 993 </item>
+        <item> DIRECCIÓN: Rúa Ezequiel López, 25, baixo
+HORARIO: De 10:30h a 16:00h e de 19:30h a 00:00h. Pechado os luns
+TELÉFONO: 981 481 290 </item>
+        <item> DIRECCIÓN: Rúa do Mariñeiro, 6
+HORARIO: Inverno: de 13:00h a 16:00h.; venres e sábados de 20:30h a 23:00h.
+Verán: de 13:00h a 16:00h e de 20:30h a 23:00h.; pechado as noites de xoves e domingo
+TELÉFONO: 663 820 558 – 981 482 085 </item>
+        <item> DIRECCIÓN: Avenida de Castelao, 66
+TELÉFONO: 981 492 112 – 981 480 998 </item>
+        <item> DIRECCIÓN: Rúa do Mariñeiro nº7
+HORARIO: Luns a domingo, de 13:30h a 16:30h.
+TELÉFONO: 981 480 011 </item>
+        <item> DIRECCIÓN: Paseo Arriba da Ponte, 19
+HORARIO: De 14:00h a 15:30h e de 21:30h a 23:00h (Pechado domingo noite e luns)
+TELÉFONO: 981 482 248 </item>
+        <item> DIRECCIÓN: Lugar de Piñeiro
+TELÉFONO: 981 482 484 – 628 532 067 </item>
+        <item> DIRECCIÓN: Rúa do Mariñeiro, 12
+TELÉFONO: 981 482692 </item>
+        <item> DIRECCIÓN: Rúa do Mariñeiro, 9
+HORARIO: De 12:00h a 23:00h (pechado os martes)
+TELÉFONO: 981 482 690 </item>
+        <item> DIRECCIÓN: Paseo Arriba da Ponte, 1
+HORARIO: De 9:00h a 16:30h e de 18:30 a 24:00h
+TELÉFONO: 981 480 140 </item>
+
+        <item> DIRECCIÓN: Ponte Nova, 5
+TELÉFONO: 981 482 030 </item>
+        <item> DIRECCIÓN: Praza Sagrado Corazón, 4
+TELÉFONO: 981 482 812 </item>
+        <item> DIRECCIÓN: Praza Roxa, 2
+HORARIO: De luns a domingo de 11:30h a 17:00h e de 19:00h a 1:30h (os domingos ata as 24:00h)
+TELÉFONO: 981 480 496 </item>
+        <item> DIRECCIÓN: Praza Roxa, 11
+TELÉFONO: 981 482 683 </item>
+        <item> DIRECCIÓN: Avenida da Area, 5
+TELÉFONO: 981 480 073 – 981 482 600 </item>
+        <item> DIRECCIÓN: Avenida da Area, 17
+HORARIO: Venres e sábado: de 21:00h a 3:00h; domingos: de 12:00h a 17:00h
+TELÉFONO: 619 251 672 </item>
+        <item> DIRECCIÓN: Avenida de España, 15
+TELÉFONO: 981 481 226 </item>
+        <item> DIRECCIÓN: Avenida de Castelao, 30
+HORARIO: De luns a domingo de 9:30h a peche. Mércores pechado en inverno.
+TELÉFONO: 655 983 097 </item>
+        <item> DIRECCIÓN: Avenida Castelao, 26
+TELÉFONO: 981 482 332 </item>
+        <item> DIRECCIÓN: Rúa Ezequiel López, 23
+HORARIO: De luns a domingo, de 12:00h a 16:00h e de 20:00h a 24:00h </item>
+        <item> DIRECCIÓN: Rúa do Ensino, 7
+TELÉFONO: 981 482 074 </item>
+        <item> DIRECCIÓN: Camino Real de La Magdalena, 33
+HORARIO: de martes a domingo, de 9:00h a 24:00h
+TELÉFONO: 981 482 094 </item>
+        <item> DIRECCIÓN: As Barrosas – Regoa
+HORARIO: De luns a domingo 11:00h a 22:00h (venres, sábado e domingo ata as 23:30h)
+TELÉFONO: 981 446 944 </item>
+        <item> DIRECCIÓN: Lugar San Andrés de Teixido, 26
+HORARIO: De luns a domingo de 10:00h a 23:00h
+TELÉFONO: 645 944 130 </item>
+    </string-array>
+    <string-array name="descripcion_larga_restaurante">
+<item> DIRECCIÓN: R/ Campo da Cruz-Esteiro Cedeira
+HORARIO: 13:00h-18:00h e de 20:00h a peche
+TELÉFONO: 981 481 003 – 669 140 705
+CORREO ELECTRÓNICO: info@restaurantesalvora.com
+WEB: restaurantesalvora.com
+ACEPTA PAGO CON TARXETA: Si
+ESPECIALIDADES: Mariscos, peixes e carnes.
+Maravillosas vistas da ría de Cedeira </item>
+        <item> DIRECCIÓN: Avenida Castelao 16
+HORARIO: Luns a venres de 9:00h a peche;  sábados e domingos de 10:30h a peche
+TELÉFONO: 981 480 037
+CORREO ELECTRÓNICO: centralcedeira@hotmail.com
+ACEPTA PAGO CON TARXETA: Si
+ESPECIALIDADES: Bacallao, xamón, flamenquín, chocos, stroganoff.
+Tapas caseiras e abundantes. </item>
+        <item> DIRECCIÓN: Carreteira de Arealonga, 1, baixo
+HORARIO: Apertura: invierno de 11:00h a 19:00h; verán de 11:00h a 20:00h.
+TELÉFONO: 981 492 265
+CORREO ELECTRÓNICO: restaurantebadulaque@gmail.com
+ACEPTA PAGO CON TARXETA: Si
+Restaurante con capacidade para celebración de vodas e banquetes ata 250 persoas. </item>
+        <item> DIRECCIÓN: Rúa Eirexa, 7. A entrada do local é por un calexón no que pódese ver restos da antigua muralla de Cedeira, e ademáis a casa na que se encontra o negocio data do século XVIII.
+HORARIO: Inverno: Venres e sábado de 11:30 ha 15:30h pola mañá e de 20:00 a peche pola tarde. Domingos de 11:30h a 15:30h. Verán: Abrimos todos os días de 11:30h a 15:30h e de 20:00h a peche.
+TELÉFONO: 981 482 009 / 635 691 018
+CORREO ELECTRÓNICO: miguelcalexa@gmail.com
+ACEPTA PAGO CON TARXETA: Non </item>
+        <item> DIRECCIÓN: Polígono a Xunqueira, 16
+TELÉFONO: 981 480 724 / 699 463 993
+CORREO ELECTRÓNICO: info@pastelonlascamelias.com
+PÁXINA WEB: www.pastelonlascamelias.com
+ACEPTA PAGO CON TARXETA: Si </item>
+        <item> DIRECCIÓN: Rúa Ezequiel López, 25, baixo
+HORARIO: De 10:30h a 16:00h e de 19:30h a 00:00h. Pechado os luns
+TELÉFONO: 981 481 290
+CORREO ELECTRÓNICO: loulomarisa@gmail.com
+FACEBOOK: MESON SAN ANTON
+ACEPTA PAGO CON TARXETA: Si
+Local acolledor para tomar uns bos viños con bos petiscos e tapas na zona vella de Cedeira.
+</item>
+        <item> DIRECCIÓN: Rúa do Mariñeiro, 6
+HORARIO: Inverno: de 13:00h a 16:00h.; venres e sábados de 20:30h a 23:00h.
+Verán: de 13:00h a 16:00h e de 20:30h a 23:00h.; pechado as noites de xoves e domingo
+TELÉFONO: 663 820 558 – 981 482 085
+CORREO ELECTRÓNICO: resbris@hotmail.com
+PÁXINA WEB: www.restaurantebrisacedeira.com (en construcción)
+ACEPTA PAGO CON TARXETA: Si (excepto American Express) </item>
+        <item> DIRECCIÓN: Avenida de Castelao, 66
+TELÉFONO: 981 492 112 – 981 480 998
+WEB: www.hotelrestauranteavenida.com
+CORREO ELECTRÓNICO: avenida@infonegocio.com </item>
+        <item> DIRECCIÓN: Rúa do Mariñeiro nº7
+HORARIO: Luns a domingo, de 13:30h a 16:30h.
+TELÉFONO: 981 480 011 </item>
+        <item> DIRECCIÓN: Paseo Arriba da Ponte, 19
+HORARIO: De 14:00h a 15:30h e de 21:30h a 23:00h (Pechado domingo noite e luns)
+TELÉFONO: 981 482 248
+PÁXINA WEB: http://restauranteapontevella-apontevella.blogspot.com.es/
+CORREO ELECTRÓNICO: ferramolin@hotmail.com </item>
+        <item> DIRECCIÓN: Lugar de Piñeiro
+TELÉFONO: 981 482 484 – 628 532 067
+PÁXINA WEB: www.leiraantiga.com
+CORREO ELECTRÓNICO: info@leiraantiga.es </item>
+        <item> DIRECCIÓN: Rúa do Mariñeiro, 12
+TELÉFONO: 981 482692
+CORREO ELECTRÓNICO: barelmarino@telefonica.net </item>
+        <item> DIRECCIÓN: Rúa do Mariñeiro, 9
+HORARIO: De 12:00h a 23:00h (pechado os martes)
+TELÉFONO: 981 482 690 </item>
+        <item> DIRECCIÓN: Paseo Arriba da Ponte, 1
+HORARIO: De 9:00h a 16:30h e de 18:30 a 24:00h
+TELÉFONO: 981 480 140 </item>
+        <item> DIRECCIÓN: Ponte Nova, 5
+TELÉFONO: 981 482 030 </item>
+        <item> DIRECCIÓN: Praza Sagrado Corazón, 4
+TELÉFONO: 981 482 812 </item>
+        <item> DIRECCIÓN: Praza Roxa, 2
+HORARIO: De luns a domingo de 11:30h a 17:00h e de 19:00h a 1:30h (os domingos ata as 24:00h)
+TELÉFONO: 981 480 496 </item>
+        <item> DIRECCIÓN: Praza Roxa, 11
+TELÉFONO: 981 482 683 </item>
+        <item> DIRECCIÓN: Avenida da Area, 5
+TELÉFONO: 981 480 073 – 981 482 600 </item>
+        <item> DIRECCIÓN: Avenida da Area, 17
+HORARIO: Venres e sábado: de 21:00h a 3:00h; domingos: de 12:00h a 17:00h
+TELÉFONO: 619 251 672
+PÁXINA WEB: https://www.facebook.com/ASADORREBOREDO/
+ </item>
+        <item> DIRECCIÓN: Avenida de España, 15
+TELÉFONO: 981 481 226
+PÁXINA WEB: www.omeson.es
+ </item>
+        <item> DIRECCIÓN: Avenida de Castelao, 30
+HORARIO: De luns a domingo de 9:30h a peche. Mércores pechado en inverno.
+TELÉFONO: 655 983 097 </item>
+        <item> DIRECCIÓN: Rúa Ezequiel López, 23
+HORARIO: De luns a domingo, de 12:00h a 16:00h e de 20:00h a 24:00h
+WEB: https://es-es.facebook.com/pizzerialanus/ </item>
+        <item> DIRECCIÓN: Avenida Castelao, 26
+TELÉFONO: 981 482 332 </item>
+        <item> DIRECCIÓN: Rúa do Ensino, 7
+TELÉFONO: 981 482 074 </item>
+        <item> DIRECCIÓN: Camino Real de La Magdalena, 33
+HORARIO: de martes a domingo, de 9:00h a 24:00h
+TELÉFONO: 981 482 094
+PÁXINA WEB: https://www.facebook.com/pages/Meson-Areal-En-Cedeira/184886885021844
+</item>
+        <item> DIRECCIÓN: As Barrosas – Regoa
+HORARIO: De luns a domingo 11:00h a 22:00h (venres, sábado e domingo ata as 23:30h)
+TELÉFONO: 981 446 944
+PÁXINA WEB: http://restaurantecalzadaromana.com/
+CORREO ELECTRÓNICO: restaurantecalzadaromana@hotmail.com</item>
+        <item> DIRECCIÓN: Lugar San Andrés de Teixido, 26
+HORARIO: De luns a domingo de 10:00h a 23:00h
+TELÉFONO: 645 944 130
+PÁXINA WEB: https://www.facebook.com/meson.eiravella </item>
+    </string-array>
+
+    <string-array name="email_restaurante">
+        <item>info@restaurantesalvora.com</item>
+        <item> centralcedeira@hotmail.com </item>
+        <item> restaurantebadulaque@gmail.com </item>
+        <item> miguelcalexa@gmail.com </item>
+        <item> info@pastelonlascamelias.com </item>
+        <item> loulomarisa@gmail.com </item>
+        <item> resbris@hotmail.com </item>
+        <item> avenida@infonegocio.com</item>
+        <item> </item>
+        <item> ferramolin@hotmail.com </item>
+        <item> info@leiraantiga.es </item>
+        <item>barelmarino@telefonica.net </item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>restaurantecalzadaromana@hotmail.com</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="web_restaurante">
+        <item>restaurantesalvora.com</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item> www.pastelonlascamelias.com </item>
+        <item></item>
+        <item> www.restaurantebrisacedeira.com </item>
+        <item> www.hotelrestauranteavenida.com </item>
+        <item></item>
+        <item> http://restauranteapontevella-apontevella.blogspot.com.es/ </item>
+        <item> www.leiraantiga.com </item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item> https://www.facebook.com/ASADORREBOREDO/</item>
+        <item>www.omeson.es</item>
+        <item></item>
+        <item></item>
+        <item>https://es-es.facebook.com/pizzerialanus/ </item>
+        <item></item>
+        <item>https://www.facebook.com/pages/Meson-Areal-En-Cedeira/184886885021844</item>
+        <item> http://restaurantecalzadaromana.com/</item>
+        <item> https://www.facebook.com/meson.eiravella </item>
+
+    </string-array>
+
+    <!-- ****************  SAN ANDRES  ****************** -->
+    <string-array name="titulo_san_andres">
+        <item>O SANTUARIO</item>
+        <item>SAN ANDRÉS DE TEIXIDO</item>
+        <item>LENDAS</item>
+        <item>AS ROMERIAS DE SAN ANDRÉS</item>
+        <item>OS SANANDRESIÑOS</item>
+        <item>A FONTE DO SANTO</item>
+        <item>A HERBA DE NAMORAR</item>
+        <item>VISITAS GUIADAS</item>
+        <item>RUTAS</item>
+    </string-array>
+    <string-array name="descripcion_corta_san_andres">
+        <item>É o segundo santuario máis visitado en Galicia, despois do de Santiago de Compostela...</item>
+        <item>Ao leste do municipio de Cedeira, en plena Serra da Capelada, álzase sobre os cantís...</item>
+        <item>En relación coa crenza cristiá, dúas son as lendas que explican a chegada e milagre do Apóstolo a Teixido...</item>
+        <item>A romaría e o culto ao santo en Teixido remóntanse ao Medievo. Unha carta outorgada...</item>
+        <item>Son figuras realizadas artesanalmente con faragulla de pan endurecida e pintadas ...</item>
+        <item>A poucos metros da capela, atópase a Fonte do Santo, unha fonte milagrosa que nace baixo...</item>
+        <item>Preto do Santuario e moi próxima ao mar, atópase a coñecida como a Herba de namorar...</item>
+        <item>Todos os domingos de agosto, setembro e outubro de 2017 hai dúas visitas gratuitas...</item>
+        <item></item>
+    </string-array>
+    <string-array name="descripcion_larga_san_andres">
+<item>Ao leste do municipio de Cedeira, en plena Serra da Capelada, álzase sobre os cantís San Andrés de Teixido, sen dúbida, un lugar cargado de maxia e cheo de misterio, onde as lendas permanecen vivas ao longo dos anos.
+Situada nun magnífico enclave natural que acompaña de forma sublime o halo máxico que envolve esta localidade, San Andrés de Teixido é un dos lugares máis visitados tanto por galegos como por turistas atraídos polas historias e lendas que nos achegan aos aromas do pasado medieval.
+É o segundo santuario máis visitado en Galicia, despois do de Santiago de Compostela. O seu interese parte non só polo seu templo gótico de tipo mariñeiro, senón tamén por unha paisaxe na que se alternan espectaculares postas de sol con paseos por lugares excepcionais no planeta.
+O santuario cristián data da Idade Media, pero os estudosos sitúan antes a existencia de Teixido como lugar de culto de druídas e como un outro mundo Celta, no que esta zona sería unha especie de porta cara ao alén. Por iso, fálase desta como a peregrinación máis ancestral.
+San Andrés de Teixido é relixión, espiritualidade, tradición, lenda, historia. Para algúns, unha viaxe á fin do mundo. Para outros, o camiño de peregrinación dos galegos.
+
+Entre a lenda e a historia
+Segundo conta a lenda, cando San Andrés chegaba aos cantís de Teixido, a súa barca naufragou e converteuse nun peñasco. Este tomou forma de barca investida, e desde entón coñéceselle como “A Barca de San Andrés”.
+O santuario comezou a construírse no século XVI, aínda que tivo diversas reformas posteriores. Enmárcase no estilo gótico con carácter mariñeiro. Da primeira, época, mantense na portada norte o arco apuntado. A torre situada ao lado da fachada data do século XVIII. No interior, hai pinturas murais  que representan o martirio de Santo André e que foron descubertas en 1970 tras o retablo maior, barroco (s. XVIII) e cun relicario con restos do Apóstolo Santo André.
+Dispón dun relevo de pedra cun escudo das armas dos Andrade e cunha cruz sanxoanista.
+Independentemente da orixe do Santuario, San Andrés de Teixido converteuse nun importante punto de peregrinación que data polo menos do século XII, e que se converte nunha especial visita mestura de culto e  tradición, acompañada das impactantes imaxes da bela paisaxe.
+Os celtas crían que viñan do outro mundo, un lugar máis aló das augas e que ao morrer volverían a el. A tradición conta que moitas almas en pena viaxan por Galicia formando parte da Santa Compaña e que veñen a Teixido a atopar as portas do alén, a porta que conduce ao máis aló, atravesando as bravas augas que pelexan contra as rocas dos cantís, a porta que separa a vida da outra vida.
+
+A San Andrés de Teixido vai de morto o que non foi de vivo
+Realizar o camiño ata San Andrés de Teixido é algo máis que unha peregrinación realizada tanto por crentes como por pagáns, pois todos déixanse seducir polo encanto especial que trae o son do vento e o mar.
+Cando se visita esta terra, hai que poñer especial coidado nos seres vivos que se atopan, pois segundo a tradición, quen non visitou San Andrés de Teixido en vida, farao despois da súa morte convertido en alma en pena ou nunha pequena alimaña.
+En Teixido os soños e desexos cobran unha importancia especial, xa que parece que aquí, todo é posible. É un lugar para redimirse dos pecados, para atopar o bo camiño, para pedir desexos e para namorarse.
+San Andrés de Teixido é cultura popular, tradicións, o arraigamento dos mitos ancestrais, o encanto do misterio, da fe, das posibilidades.</item>
+        <item>Ao leste do municipio de Cedeira, en plena Serra da Capelada, álzase sobre os cantís San Andrés de Teixido, sen dúbida, un lugar cargado de maxia e cheo de misterio, onde as lendas permanecen vivas ao longo dos anos.
+Situada nun magnífico enclave natural que acompaña de forma sublime o halo máxico que envolve esta localidade, San Andrés de Teixido é un dos lugares máis visitados tanto por galegos como por turistas atraídos polas historias e lendas que nos achegan aos aromas do pasado medieval.
+
+Entre a lenda e a historia
+San Andrés de Teixido é lugar de peregrinación e ten no Santuario de San Andrés un dos principais templos de culto de toda Galicia. Segundo conta a lenda, cando San Andrés chegaba aos cantís de Teixido, a súa barca naufragou e converteuse nun peñasco. Este tomou forma de barca investida, e desde entón coñéceselle como “A Barca de San Andrés”.
+Aínda que o santuario cristián dataría da Idade Media, o lugar de culto é moito máis antigo, remontándose con toda probabilidade aos albores da humanidade, lugar sacro de cultos relacionado coa filosofía dos druídas e o outro mundo Celta.
+O santuario comenzou a construirse no século XVI, aínda que tivo diversas reformas posteriores.  Enmárcase no estilo gotico con carácter mariñeiro. Da primeira, epoca, mantense na portada norte o arco apuntado. A torre situada ao lado da fachada data do século XVIII. No interior, hai pinturas murais  que representan o martirio de Santo André e que foron descubertas en 1970 tras o retablo maior, barroco (s. XVIII) e cun relicario con restos do Apóstolo Santo André.
+Dispón dun relevo de pedra cun escudo das armas dos Andrade e cunha cruz sanxoanista.
+Independentemente da orixe do Santuario, San Andrés de Teixido converteuse nun importante punto de peregrinación que data polo menos do século XII, e que se converte nunha especial visita mestura de culto e  tradición, acompañada das impactantes imaxes da bela paisaxe.
+Os celtas crían que viñan do outro mundo, un lugar máis aló das augas e que ao morrer volverían a el. A tradición conta que moitas almas en pena viaxan por Galicia formando parte da Santa Compaña e que veñen a Teixido a atopar as portas do alén, a porta que conduce ao máis aló, atravesando as bravas augas que pelexan contra as rocas dos cantís, a porta que separa a vida da outra vida.
+Outra lenda conta que o Santuario foi creado polo Todopoderoso para compensar a tristeza que sentía San Andrés ao ver que todos os peregrinos dirixían os seus pasos cara a Santiago.
+
+A San Andrés de Teixido vai de morto o que non foi de vivo
+Realizar o camiño ata San Andrés de Teixido é algo máis que unha peregrinación realizada tanto por crentes como por pagáns, pois todos déixanse seducir polo encanto especial que trae o son do vento e o mar.
+Cando se visita esta terra, hai que poñer especial coidado nos seres vivos que se atopan, pois segundo a tradición, quen non visitou San Andrés de Teixido en vida, farao despois da súa morte convertido en alma en pena ou nunha pequena alimaña.
+En Teixido os soños e desexos cobran unha importancia especial, xa que parece que aquí, todo é posible. É un lugar para redimirse dos pecados, para atopar o bo camiño, para pedir desexos e para namorarse.
+San Andrés de Teixido é cultura popular, tradicións, o arraigamento dos mitos ancestrais, o encanto do misterio, da fe, das posibilidades.
+
+A Romería de San Andrés
+Aínda que a romaría de San Andrés se pode facer en calquera época do ano, hai uns días en particular máis propios, que son venres, sábado e domingo de Pentecostés; 24 de xuño, dende o 16 de agosto ao 9 de setembro (o día 8 de setembro hai unha misa por todos aqueles que deixaron unha esmola no santuario); o terceiro venres, sábado e domingo de setembro, o 29 deste mes e do 27 ao 30 de novembro, data na que se celebra a festividade do santo.
+
+Visitas guiadas
+Todos os domingos de agosto, setembro e outubro de 2017 hai dúas visitas gratuitas con guía: ás 11.30h e 12.30h polos exteriores e máis o interior do Santuario de San Andrés de Teixido.
+As visitas guiadas realizaránse ás 11.30h e 12.30h , e as persoas que estean interesadas só teñen que presentarse nas inmediacións da igrexa, na praza de acceso a San Andrés, a algunha desas horas.
+A participación é gratuíta. Lendas, romerías, ritos e recursos, ademais das características e singularidades do lugar, serán os contidos dunhas visitas de entre vinte e trinta minutos de duración.
+As visitas guiadas realizaránse ás 11.30h e 12.30h, e a duración da visita é de media hora. O punto de encontró para o inicio da visita é a praza de acceso a San Andrés.
+Máis información na Oficina de Turismo de Cedeira (981 482 633).
+
+
+A Fonte do Santo
+A poucos metros da capela, atópase a Fonte do Santo, unha fonte milagrosa que nace baixo o Altar Maior da Igrexa e da que manan tres chorros de auga fresca. Trátase dunha fone de 3 canos do ano 1781 (Século XVIII) realizada en pedra con encintado en branco moi característico, como a mayoría das edificacións da contorna.
+A lenda conta que se botamos unha faragulla de pan e esta frota, San Andrés concederá todo aquilo que se lle pedira; se pola contra, a faragulla de pan afúndese, as súplicas non serán atendidas.
+
+Os Sanandreses ou sanandresiños
+Son figuras realizadas artesanalmente con faragulla de pan endurecida e pintadas con vivas cores que acompañan e dan sorte a quen os porte, e fan referencia á vida do santo, como a man, o peixe, o pensamento, a figura do mesmo San Andrés, a barca na que chegou á costa e outras. Cada figura ten a súa particular faceta, pero en conxunto ofrecen axuda en temas de amor, traballo, viaxes, alimentos, saúde, estudos, paz e protección xeral.</item>
+        <item>En relación coa crenza cristiá, dúas son as lendas que explican a chegada e milagre do Apóstolo a Teixido.
+
+Primeira Lenda
+Cando Deus terminou de facer o mundo, descansou e neste repouso divino apoiou a súa destra nesta arcaica rexión de Galicia. Os cinco dedos ao quedar gravados na prematura docilidade do chan esculpiron o que máis tarde haberían de ser eses vales mergullados que, nas desembocaduras de cinco ríos, forman as fascinantes e privilexiadas Rías Galegas.
+Moitos milenios despois, Cristo acompañado de Pedro sentiu curiosidade por coñecer o pais onde o seu divino pai repousase a súa man. Percorrendo polgada a polgada este pais deron en Teixido. Esgotados e sedentos decidiron descansar, pero a auga era mala e non se podía beber, comida non a había e Xesús non tivo máis remedio que implorar a axuda paterna, e o Pai, accedendo á súa petición, envioulle unha mazá e no interior desa mazá achábase, acubillado, San Andrés. A froita sacioulles a fame e a sede, e o santo quedou en liberdade.
+"Andrés - díxolle Xesús - quedarás nestes lugares para sempre". Andrés suplicante xemiu: " Non me abandonedes Mestre nestas paraxes tan inhóspitos e solitarios onde non existe a comida e a auga é tan mala que non sacia a sede". "Prométoche Andrés - contestoulle o Salvador - que a comida non ha de faltarche, as augas serán frescas, abundantes e sas e gozarás das visitas continuas e perpetuas de todas as xentes, non só das proximidades, senón tamén de afastados lugares, acudirán a visitarche, continuas multitudes..... e o teu nome será coñecido e venerado por todos.... e ao cabo duns anos nun lugar que será chamado " Campus Stellae "virá repousar definitivamente o teu irmán maior, Santiago quen, como ti, será venerado por todo o universo cristián".
+Xesús e Pedro marcharon, pero esta promesa cumpriuse.
+
+Segunda Lenda
+Conta a lenda da chegada en barca do Apóstolo San Andrés. A causa da bruma, a barca chocou contra os cantís e quedou petrificada, quilla arriba, e cos ollos da alma podemos recoñecela na máis grande das Illas Gabeiras ; efectivamente ten forma de barcaza invertida , e ao asomarse ao miradoiro de San Andrés, cun pouco de intención, podemos ver a barca petrificada “A Barca de San Andrés”.
+
+
+Á marxe de canto se relaciona co Santuario, Teixido ten as súas propias tradicións e lendas.
+
+Nosa Señora do Vico
+Na beira do camiño, moi preto de Teixido, no punto coñecido como "O Vico", hai unha pena non moi grande que, mirada desde certo ángulo, semella a figura dunha santa vista por detrás, cuberta por un manto desde a cabeza ata os pés. Mesmo parece que co brazo esquerdo recolle parte do manto. A esta pena os paisanos chámanlle "Nosa Señora do Vico", e polas súas semellanza coa Virxe María, saudábana, persignándose, ao pasar polo seu lado.
+
+O recordo dunha tiránica serpe
+É unha das máis antigas lendas, que fala dunha serpe monstruosa, que tiña a súa morada preto do mar. Ese lendario réptil moito tempo dominou polo terror aos habitantes da zona. E é canto se sabe dunha historia misteriosa cuxa realidade se esconde tras a néboa dos séculos.
+
+O Ermitaño Pardo
+Hai tamén a memoria de que no lugar viviu, adicado ás súas penitencias, o Ermitaño Pardo, ser lendario do que oíron falar todos os sanandresanos; pero do que ignoran datos verídicos.
+
+Casa e poboado somerxidos
+Fala esta lenda de certa muller de Teixido que na mañá dun afastado día saíu da súa casa en dirección ao campo, levando consigo o xantar aos xornaleiros que estaban a traballar para ela. Todo sucedeu normalmente. Pero ao regresar do campo atopouse coa sorpresa de que no sitio onde aínda pola mañá alzábase a súa morada, non había sinais da casa. Non falta quen cre ver afundida, nas proximidades, a viga mestra do edificio.
+
+Mozas encantadas
+Indo polo camiño do cemiterio, onde está un peñasco coñecido como "Pena do Encanto", hai unha doncela encantada, que chama a atención pola súa fermosura "cun pelo tremendísimo". Todos os anos, o día de San Xoan, sae ao raiar a aurora, e faise visible, coa esperanza de que pase algún mozo disposto a desencantala. Naturalmente, a cousa non é fácil, porque a medida que o mozo se achega, a doncela perde a fermosura aos ollos de quen a mira, e acaba converténdose nun monstro repugnante e espantoso. O valente que se atreva a matar o monstro, desencantará á doncela coa que poderá casar e non menos gozar dos tesouros da súa esposa, que son moitos; pero de momento áchanse tan encantados como a súa dona.
+Noutro punto próximo, chamado Coto dous Fondás, hai varias mozas encantadas. Para velas hai que ir tamén o 24 de xuño.
+A razón pola cal hai doncelas encantadas nas inmediacións do santuario é que elas, sendo fillas de familias nobres, negáronse a aceptar os maridos que lles estaban destinados. Por tamaña desobediencia foron encantadas, e desde tempo inmemorial continúan na mesma situación, ata que chegue o día de ser liberadas do encanto.</item>
+        <item>A romaría e o culto ao santo en Teixido remóntanse ao Medievo. Unha carta outorgada que se conserva no Arquivo Histórico Nacional aporta a primeira referencia da existencia do santuario. Nela, infórmase de que os condes de Traba doaban á Orde de San Xoán de Xerusalén todas as súas propiedades en Cedeira e Teixido.
+O culto ao apóstolo pescador comparte ritos comúns con outras peregrinacións e romarías de Galicia e da cristiandade en xeral. Entre elas, a que comentamos dos amilladoiros, por exemplo, é propia de todas as peregrinacións a pé e, por tanto, de xeito destacado no Camiño de Santiago.
+Outras tradicións, como a ofrenda de exvotos ou cirios e velas de distintos tamaños, son comúns a todas as manifestacións relixiosas relacionadas con milagres e curacións. E no caso de Santo André de Teixido, son moi numerosas as maquetas de embarcacións que ben son recordo dun naufraxio ou pretenden a intercesión do apóstolo pescador para que non aconteza.
+Aínda que a romaría de San Andrés se pode facer en calquera época do ano, hai uns días en particular máis propios que son:
+	O venres, sábado e domingo de Pentecostés,
+	O 24 de xuño,
+	Desde o 16 de agosto ao 9 de setembro (o día 8 de setembro hai unha misa por todos aqueles que deixaron unha esmola no santuario).
+	O terceiro venres, sábado e domingo de setembro, e o 29 de setembro.
+	Do 27 ao 30 de novembro, datas na que se celebra a festividade do santo.
+
+Costumes da Romaría
+
+Unha romaría a San Andrés típica e ben organizada, é dicir, clásica, debería seguir o seguinte ritual:
+
+A Marcha
+Grupos de mulleres e homes saen xuntos do seu pobo. Postos de acordo, emprenden a camiñada. Noutras épocas as persoas de máis recursos ían dacabalo; pero a maioría camiñaban a pé. Cantando marchaban, acompañados ás veces polo son da gaita e do pandeiro.
+
+O rito da Pedra
+Atravesaban deste xeito aldeas e despoboados, carreiros e camiños, descansando o tempo imprescindible para renovar a marcha. Xa preto de San Andrés, aqueles que nunca foron, deben coller unha pedra para botar ao amilladoiro ou milladoiro (amontoamento de pedras). Considérase este detalle imprescindible como proba de realizar a romaría.
+
+Chegada e cumprimento da promesa
+Xadeantes e suorentos, chégase á meta. Ao entrar no santuario, déixase as ofrendas que se traen. De todos os xeitos, deposítase a esmola nun dos cepillos da igrexa.
+Moitos traen velas da mesma lonxitude que a estatura do oferente portador; arde a cera de continuo diante da imaxe do Apóstolo.
+
+O "Poñer o Santo"
+O bo romeu non abandona o templo sen que lle dean a bicar unha pequena imaxe de San Andrés e lle persignen con ela, é o que se denomina "poñer o santo " aos romeus.
+Un cristián calquera pode realizar esta operación. Hai unhas palabras que eran propias do rito: "O Santo que che deu a enfermidade que che dea a sanidade polo poder que Deus ten, e San Andresiño. Amén".
+Ritos da fonte milagrosa
+É preciso tamén baixar á "Fonte do santo", que segundo a tradición, nace debaixo do altar maior da igrexa. Tres chorros de auga fresquísima brotan da fonte. Din que mana o mesmo caudal no inverno que no verán.
+Á fonte consultábaselle sobre se o divino San Andrés concedería ou non o que se lle imploraba. Para iso, botábase no pilón unha faragulla de pan. Se flotaba, era porque o santo mostraríase propicio a atender a súplica que se lle fixo. Se se ía ao fondo, o consultante podía perder xa toda esperanza.
+Segundo outra versión, un pouco máis macabra, dicíase que, de flotar a faragulla de pan, o interesado aínda volvería, polo menos unha vez máis, a San Andrés. Se pola contra, a faragulla caía ao fondo, isto era indicio de que aquel mesmo ano soaría para o consultante a última hora da súa existencia terrea. Por esta razón a "Fonte do Santo" recibe tamén o nome de "Fonte da morte e da vida".
+
+"Herba de namorar"
+A xente máis nova baixa máis aló da fonte, e preto do mar vai buscar a "herba de namorar” ou “Herba enamoradeira” que abunda por estas paraxes de San Andrés e ten feitizos para atraer á persoa amada. É tamén costume regalala como mostra de amizade.
+
+O Ramo
+Volver co ramo de San Andrés constitúe unha das máis fermosas tradicións da romaría. Compoñen o ramo unha vara de aveleiro, e atadas nela, varias poliñas de tezo ( ou teixo en galego, de onde a xuízos da maioría, veu o nome de Teixido). Ao ramo vai tamén suxeita unha pouca de "herba de namorar" e algún Sanandresiño.</item>
+        <item> Son figuras realizadas artesanalmente con faragulla de pan endurecida e pintadas con vivas cores que acompañan e dan sorte a quen os porte, e fan referencia á vida do santo, como a man, o peixe, o pensamento, a figura do mesmo San Andrés, a barca na que chegou á costa e outras. Cada figura ten a súa particular faceta, pero en conxunto ofrecen axuda en temas de amor, traballo, viaxes, alimentos, saúde, estudos, paz e protección xeral.</item>
+        <item>A poucos metros da capela, atópase a Fonte do Santo, unha fonte milagrosa que nace baixo o Altar Maior da Igrexa e da que manan tres chorros de auga fresca. Trátase dunha fone de 3 canos do ano 1781 (Século XVIII) realizada en pedra con encintado en branco moi característico, como a mayoría das edificacións da contorna.
+A lenda conta que se botamos unha faragulla de pan e esta frota, San Andrés concederá todo aquilo que se lle pedira; se pola contra, a faragulla de pan afúndese, as súplicas non serán atendidas.</item>
+        <item>Preto do Santuario e moi próxima ao mar, atópase a coñecida como a Herba de namorar. Di a lenda que conseguindo unha delas e gardándoa no peto da persoa que queres sen que ela se dea conta, conseguiríase que se namore de ti. Mais debe terse coidado de non arrincala xa que a Herba de namorar ou Armeria Pubigera, sendo unha planta dura e resistente, atópase en perigo.
+Florece de maio a xuño e ás veces no outono. Trátase dun pequeno e compacto arbusto. A súa forma almohadillada permítelle protexerse do vento, e as súas raíces son moito máis grandes en proporción que a parte da planta que sobresae do chan. Vive en zonas rochosas graníticas litorais e ocasionalmente en areais, sempre próximos ao mar.
+•	Familia (Familia): Plumbaginaceae
+•	Especie (nome castelán): Armeria
+•	Especie (nome científico): Armeria pubigera
+•	Especie (nome galego): Herba de namorar, herba empreñadeira</item>
+        <item>Todos os domingos de agosto, setembro e outubro de 2017 hai dúas visitas gratuitas con guía: ás 11.30 h e 12.30 h polos exteriores e máis o interior do Santuario de San Andrés de Teixido.
+As persoas que estean interesadas só teñen que presentarse nas inmediacións da igrexa, na praza de acceso a San Andrés, a algunha desas horas.
+A participación é gratuíta. Lendas, romerías, ritos e recursos, ademais das características e singularidades do lugar, serán os contidos dunhas visitas de entre vinte e trinta minutos de duración.
+Máis información na Oficina de Turismo de Cedeira (981 482 633).</item>
+        <item></item>
+    </string-array>
+    <string-array name="coord_san_andres_01">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="coord_san_andres_02">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+
+    <string name="title_activity_lista_una_ficha">ListaUnaFicha</string>
+    <string name="title_activity_noticias">Noticias</string>
+    <string name="title_activity_noticia">Noticia</string>
+    <string name="title_activity_eventos">Eventos</string>
+    <string name="title_activity_evento">Evento</string>
+    <string name="title_activity_actualidade">Actualidade</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_hosteleria">Hosteleria</string>
+    <string name="title_activity_rutas__san__andres">Rutas_San_Andres</string>
+    <string name="title_activity_carga_web">CargaWeb</string>
+
+
+</resources>

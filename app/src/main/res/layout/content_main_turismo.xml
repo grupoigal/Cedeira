@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/prueba"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="33.33"
+        android:orientation="horizontal"
+        tools:ignore="DisableBaselineAlignment">
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="33.33"
+            tools:ignore="NestedWeights">
+
+            <ImageView
+                android:id="@+id/imageViewPlayas"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="50"
+                android:onClick="playas"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/opc_1_praia"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+            <EditText
+                android:id="@+id/playastext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageViewPlayas"
+                android:background="@null"
+                android:enabled="false"
+                android:text="@string/menu_praias"
+                android:textAlignment="center"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textStyle="bold"
+                tools:ignore="TextFields" />
+
+        </RelativeLayout>
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="33.33">
+
+            <ImageView
+                android:id="@+id/imageViewMiradores"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="50"
+                android:onClick="miradores"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/miradoiro_menu"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+            <EditText
+                android:id="@+id/miradorestext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageViewMiradores"
+                android:background="@null"
+                android:enabled="false"
+                android:text="@string/menu_miradores"
+
+                android:textAlignment="center"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textStyle="bold"
+                tools:ignore="TextFields" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="33.33"
+        android:orientation="horizontal"
+        tools:ignore="DisableBaselineAlignment">
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="33.33"
+            tools:ignore="NestedWeights">
+
+            <ImageView
+                android:id="@+id/imageViewPatrimonio"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="50"
+                android:onClick="patrimonio"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/opc_3_patrimonio"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+            <EditText
+                android:id="@+id/patrimoniotext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageViewPatrimonio"
+                android:background="@null"
+                android:text="@string/menu_patrimonio"
+                android:textAlignment="center"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textStyle="bold"
+                tools:ignore="TextFields"
+                android:enabled="false"/>
+        </RelativeLayout>
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="33.33">
+
+            <ImageView
+                android:id="@+id/imageViewRutas"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="50"
+                android:onClick="rutas"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/opc_4_rutas"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+            <EditText
+                android:id="@+id/rutastext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageViewRutas"
+                android:background="@null"
+                android:text="@string/menu_rutas"
+                android:textAlignment="center"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textStyle="bold"
+                tools:ignore="TextFields"
+                android:enabled="false"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="33.33"
+        android:orientation="horizontal"
+        tools:ignore="DisableBaselineAlignment">
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="33.33"
+            tools:ignore="NestedWeights">
+
+            <ImageView
+                android:id="@+id/imageViewSanAndres"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:onClick="san_andres"
+                android:scaleType="fitXY"
+                android:src="@drawable/opc_5_sandres"
+                tools:ignore="ContentDescription,VectorDrawableCompat"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <EditText
+                android:id="@+id/tuedittext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageViewSanAndres"
+                android:background="@null"
+                android:text="@string/San_andres"
+                android:textAlignment="center"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textStyle="bold"
+                tools:ignore="TextFields"
+                android:enabled="false"/>
+        </RelativeLayout>
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="33.33">
+
+            <ImageView
+                android:id="@+id/imageViewHosteleria"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="50"
+                android:onClick="hostelería"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/opc_6_hosteleria"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+            <EditText
+                android:id="@+id/hosteleriatext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageViewHosteleria"
+                android:background="@null"
+                android:enabled="false"
+                android:text="@string/menu_hosteleria"
+                android:textAlignment="center"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textStyle="bold"
+                tools:ignore="TextFields" />
+        </RelativeLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

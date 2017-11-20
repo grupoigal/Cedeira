@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1025318246105",
+    "firebase_url": "https://cedeira-6f46a.firebaseio.com",
+    "project_id": "cedeira-6f46a",
+    "storage_bucket": "cedeira-6f46a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025318246105:android:f17c3e0e7496b00a",
+        "android_client_info": {
+          "package_name": "com.grupoigal.anaruth.cedeira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025318246105-kgcr04s1e51r4hgrc2mhec4g42oq6mhv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grupoigal.anaruth.cedeira",
+            "certificate_hash": "b0cd152959ae1ebfe658479b2a85acece0aeefc6"
+          }
+        },
+        {
+          "client_id": "1025318246105-1rashakkj3r6t1b9a9jb7b896mme0nfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjct82fQOiFodwHCIaZ72wYv93avicXfQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025318246105-1rashakkj3r6t1b9a9jb7b896mme0nfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/inicio" />
+        <item
+            android:id="@+id/nav_concello"
+            android:icon="@drawable/ic_concello"
+            android:title="@string/concello" />
+        <item
+            android:id="@+id/nav_turismo"
+            android:icon="@drawable/ic_local_library_black_24dp"
+            android:title="@string/turismo" />
+        <item
+            android:id="@+id/nav_san_andres"
+            android:icon="@drawable/ic_place_black_24dp"
+            android:title="@string/San_andres" />
+        <item
+            android:id="@+id/nav_QR"
+            android:icon="@drawable/ic_lectorqr"
+            android:title="@string/qr" />
+        <item
+            android:id="@+id/nav_actualidad"
+            android:icon="@drawable/ic_actualidad01"
+            android:title="@string/actualidade" />
+        <item
+            android:id="@+id/nav_participa"
+            android:icon="@drawable/ic_contact_mail_black_24dp"
+            android:title="@string/participa" />
+        <item
+            android:id="@+id/nav_webs"
+            android:icon="@drawable/arroba_img"
+            android:title="@string/webs" />
+    </group>
+
+    <item android:title="@string/restauracion">
+        <menu>
+            <item
+                android:id="@+id/nav_restaurantes"
+                android:icon="@drawable/ic_restaurant_menu_black_24dp"
+                android:title="@string/restaurantes" />
+            <item
+                android:id="@+id/nav_hoteles"
+                android:icon="@drawable/ic_hotel_black_24dp"
+                android:title="@string/hoteles" />
+            <item
+                android:id="@+id/nav_gastronomia"
+                android:icon="@drawable/ic_restaurant_black_24dp"
+                android:title="@string/gastronomia" />
+        </menu>
+    </item>
+
+</menu>

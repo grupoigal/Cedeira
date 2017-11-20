@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#fffbfff9">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <ImageView
+            android:id="@+id/iv_Restaurantes"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:onClick="restaurantes"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/opc_15_restaurantes"
+            tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+        <EditText
+            android:id="@+id/restaurantestext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/iv_Restaurantes"
+            android:background="@null"
+            android:enabled="false"
+            android:text="@string/menu_restaurantes"
+            android:textAlignment="center"
+            android:textColor="@color/common_google_signin_btn_text_dark_default"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            tools:ignore="TextFields" />
+
+    </RelativeLayout>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <ImageView
+            android:id="@+id/iv_Hoteles"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:onClick="hoteles"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/opc_16_hoteles"
+            tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+        <EditText
+            android:id="@+id/hotelestext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/iv_Hoteles"
+            android:background="@null"
+            android:enabled="false"
+            android:text="@string/menu_hoteles"
+            android:textAlignment="center"
+            android:textColor="@color/common_google_signin_btn_text_dark_default"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            tools:ignore="TextFields" />
+
+    </RelativeLayout>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <ImageView
+            android:id="@+id/iv_Gastronomia"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:onClick="gastronomia"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/opc_6_hosteleria"
+            tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+        <EditText
+            android:id="@+id/gastronomiatext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/iv_Gastronomia"
+            android:background="@null"
+            android:enabled="false"
+            android:text="@string/gastronomia"
+            android:textAlignment="center"
+            android:textColor="@color/common_google_signin_btn_text_dark_default"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            tools:ignore="TextFields" />
+
+    </RelativeLayout>
+
+
+
+
+
+</LinearLayout>

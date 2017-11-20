@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/prueba"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="33.33"
+        android:orientation="horizontal">
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="33.33">
+
+            <ImageView
+                android:id="@+id/imageViewPConcello"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="50"
+                android:onClick="irConcello"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/opc_8_concello" />
+
+            <EditText
+                android:id="@+id/ConcelloText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageViewPConcello"
+                android:background="@null"
+                android:enabled="false"
+                android:text="@string/concello"
+                android:textAlignment="center"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textStyle="bold"
+                android:visibility="visible" />
+        </RelativeLayout>
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="33.33">
+
+            <ImageView
+                android:id="@+id/imageViewTurismo"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="50"
+                android:onClick="irTurismo"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/opc_12_turismo" />
+
+            <EditText
+                android:id="@+id/TurismoText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageViewTurismo"
+                android:background="@null"
+                android:enabled="false"
+                android:text="@string/turismo"
+                android:textAlignment="center"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textStyle="bold"
+                android:visibility="visible" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="33.33"
+        android:orientation="horizontal">
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="33.33">
+
+            <ImageView
+                android:id="@+id/imageViewSanAndres"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="50"
+                android:onClick="irSanAndres"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/opc_5_sandres" />
+
+            <EditText
+                android:id="@+id/SanAndresText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageViewSanAndres"
+                android:background="@null"
+                android:enabled="false"
+                android:text="@string/San_andres"
+                android:textAlignment="center"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textStyle="bold"
+                android:visibility="visible" />
+        </RelativeLayout>
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="33.33">
+
+            <ImageView
+                android:id="@+id/imageViewQR"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="50"
+                android:onClick="irQR"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/opc_9_lectorqr"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <EditText
+                android:id="@+id/QRtext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageViewQR"
+                android:background="@null"
+                android:enabled="false"
+                android:text="@string/qr"
+                android:textAlignment="center"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textStyle="bold"
+                android:visibility="visible" />
+        </RelativeLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="33.33"
+        android:orientation="horizontal">
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="33.33">
+
+            <ImageView
+                android:id="@+id/imageViewActualid"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:onClick="irActualidade"
+                android:scaleType="fitXY"
+                android:src="@drawable/opc_7_actualidad" />
+
+            <EditText
+                android:id="@+id/ActualidadeText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageViewActualid"
+                android:background="@null"
+                android:enabled="false"
+                android:text="@string/actualidade"
+                android:textAlignment="center"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textStyle="bold"
+                android:visibility="visible" />
+        </RelativeLayout>
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="33.33">
+
+            <ImageView
+                android:id="@+id/imageViewParticipacion"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="50"
+                android:onClick="irParticipa"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/opc_10_participa"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <EditText
+                android:id="@+id/participacionText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageViewParticipacion"
+                android:background="@null"
+                android:enabled="false"
+                android:text="@string/participa"
+                android:textAlignment="center"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textStyle="bold"
+                android:visibility="visible" />
+        </RelativeLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

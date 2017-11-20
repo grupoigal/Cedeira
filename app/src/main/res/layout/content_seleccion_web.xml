@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#fffbfff9">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <ImageView
+            android:id="@+id/web_sentir_marineiro_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:onClick="irSentirMarineiro"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/opc_17_praia"
+            tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+        <EditText
+            android:id="@+id/sentirmarineirotext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/web_sentir_marineiro_layout"
+            android:background="@null"
+            android:enabled="false"
+            android:text="@string/Sentir_marinero"
+            android:textAlignment="center"
+            android:textColor="@color/common_google_signin_btn_text_dark_default"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            tools:ignore="TextFields" />
+
+    </RelativeLayout>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <ImageView
+            android:id="@+id/iv_Concello"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:onClick="irConcello"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/opc_8_concello"
+            tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+        <EditText
+            android:id="@+id/concellotext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/iv_Concello"
+            android:background="@null"
+            android:enabled="false"
+            android:text="@string/web_concello"
+            android:textAlignment="center"
+            android:textColor="@color/common_google_signin_btn_text_dark_default"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            tools:ignore="TextFields" />
+
+    </RelativeLayout>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <ImageView
+            android:id="@+id/iv_Turismo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:onClick="irTurismo"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/opc_18_ruta"
+            tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+        <EditText
+            android:id="@+id/gastronomiatext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/iv_Turismo"
+            android:background="@null"
+            android:enabled="false"
+            android:text="@string/turismo_cedeira"
+            android:textAlignment="center"
+            android:textColor="@color/common_google_signin_btn_text_dark_default"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            tools:ignore="TextFields" />
+
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/tv_Enlace_Oculto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        tools:ignore="HardcodedText,RtlHardcoded" />
+
+
+</LinearLayout>

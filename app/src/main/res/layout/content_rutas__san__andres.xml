@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/prueba"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="33.33"
+        android:orientation="horizontal"
+        tools:ignore="DisableBaselineAlignment">
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="33.33"
+            tools:ignore="NestedWeights">
+
+            <ImageView
+                android:id="@+id/imageViewCaminoDoMar"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="50"
+                android:onClick="irCaminoDoMar"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/sandres01"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+            <EditText
+                android:id="@+id/carinoDoMartext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageViewCaminoDoMar"
+                android:background="@null"
+                android:enabled="false"
+                android:text="@string/menu_camino_do_mar"
+                android:textAlignment="center"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                tools:ignore="TextFields" />
+
+        </RelativeLayout>
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="33.33">
+
+            <ImageView
+                android:id="@+id/imageViewDendePorto"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="50"
+                android:onClick="irTeixidoDendePortoDoCabo"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/sandres02"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <EditText
+                android:id="@+id/dendePortotext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageViewDendePorto"
+                android:background="@null"
+                android:enabled="false"
+                android:text="@string/menu_a_teixido"
+
+                android:textAlignment="center"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                tools:ignore="TextFields" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="33.33"
+        android:orientation="horizontal"
+        tools:ignore="DisableBaselineAlignment">
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="33.33"
+            tools:ignore="NestedWeights">
+
+            <ImageView
+                android:id="@+id/imageViewCaminoVello"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="50"
+                android:onClick="irCaminoVello"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/sandres03"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+            <EditText
+                android:id="@+id/caminoVellotext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageViewCaminoVello"
+                android:background="@null"
+                android:enabled="false"
+                android:text="@string/menu_camino_vello"
+                android:textAlignment="center"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                tools:ignore="TextFields" />
+        </RelativeLayout>
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="33.33">
+
+            <ImageView
+                android:id="@+id/imageViewRCarinoTeixido"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="50"
+                android:onClick="irCarinoTeixido"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/sandres04"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <EditText
+                android:id="@+id/carinoTeixidotext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageViewRCarinoTeixido"
+                android:background="@null"
+                android:enabled="false"
+                android:text="@string/menu_camino_carino_teixido"
+                android:textAlignment="center"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                tools:ignore="TextFields" />
+        </RelativeLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="33.33"
+        android:orientation="horizontal"
+        tools:ignore="DisableBaselineAlignment">
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="33.33"
+            tools:ignore="NestedWeights">
+
+            <ImageView
+                android:id="@+id/imageViewMedievo"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:onClick="irMedievo"
+                android:scaleType="fitXY"
+                android:src="@drawable/sandres05"
+                tools:ignore="ContentDescription,VectorDrawableCompat"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <EditText
+                android:id="@+id/medievotext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageViewMedievo"
+                android:background="@null"
+                android:enabled="false"
+                android:text="@string/menu_medievo"
+                android:textAlignment="center"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                tools:ignore="TextFields" />
+        </RelativeLayout>
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="33.33">
+
+            <ImageView
+                android:id="@+id/imageViewHPeiraos"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="50"
+                android:onClick="irPeiraos"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/sandres06"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+            <EditText
+                android:id="@+id/peiraostext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:background="@null"
+                android:enabled="false"
+                android:text="@string/menu_peiraos"
+                android:textAlignment="center"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                tools:ignore="TextFields" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="33.33"
+        android:orientation="horizontal"
+        tools:ignore="DisableBaselineAlignment">
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="33.33"
+            tools:ignore="NestedWeights">
+
+            <ImageView
+                android:id="@+id/imageViewSPerelinaxes"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:onClick="irPerelinaxes"
+                android:scaleType="fitXY"
+                android:src="@drawable/sandres07"
+                tools:ignore="ContentDescription,VectorDrawableCompat"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <EditText
+                android:id="@+id/perelinaxestext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageViewSPerelinaxes"
+                android:background="@null"
+                android:enabled="false"
+                android:text="@string/menu_galeguistas"
+                android:textAlignment="center"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                tools:ignore="TextFields" />
+        </RelativeLayout>
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="33.33">
+
+            <ImageView
+                android:id="@+id/imageViewVuestaEspana"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="50"
+                android:onClick="irVueltaEspana"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/sandres08"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+            <EditText
+                android:id="@+id/vueltaEspanatext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/imageViewVuestaEspana"
+                android:background="@null"
+                android:enabled="false"
+                android:text="@string/menu_vuelta_espana"
+                android:textAlignment="center"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                tools:ignore="TextFields" />
+        </RelativeLayout>
+    </LinearLayout>
+
+
+
+</LinearLayout>
